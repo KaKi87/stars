@@ -326,6 +326,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jorio/gitfourchette](https://github.com/jorio/gitfourchette) - The comfortable Git UI for Linux
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 An AI Ollama hub
 - [l0drex/Intellij-KDE-Breeze-Theme](https://github.com/l0drex/Intellij-KDE-Breeze-Theme) - A theme 🎨 for IntelliJ IDEs based on the KDE Breeze Theme. Includes light ☀️ and dark 🌒 variants.
