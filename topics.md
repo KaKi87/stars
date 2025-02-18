@@ -708,7 +708,7 @@
 - [asimons04/tesseract](https://github.com/asimons04/tesseract) - 
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
-- [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 An AI Ollama hub
+- [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 Local and online AI hub
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
 - [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font) - Monaco Nerd Font with bold, italic, and bold italic added.
 - [l0drex/Intellij-KDE-Breeze-Theme](https://github.com/l0drex/Intellij-KDE-Breeze-Theme) - A theme 🎨 for IntelliJ IDEs based on the KDE Breeze Theme. Includes light ☀️ and dark 🌒 variants.
