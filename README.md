@@ -386,6 +386,7 @@
 
 ## TypeScript 
 
+- [kernel-mod/electron](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
