@@ -386,6 +386,7 @@
 
 ## TypeScript 
 
+- [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [kernel-mod/electron](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
