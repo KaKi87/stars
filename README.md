@@ -280,6 +280,7 @@
 
 ## Others 
 
+- [claudemods/BasiliskAppImage](https://github.com/claudemods/BasiliskAppImage) - It is What It Is
 - [wcxo/GitCracken](https://github.com/wcxo/GitCracken) - GitCracken
 - [HuskyDG/magisk-files](https://github.com/HuskyDG/magisk-files) - 
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
