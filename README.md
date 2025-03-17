@@ -143,6 +143,7 @@
 
 ## Java 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
 - [verticalsync/Sundroid](https://github.com/verticalsync/Sundroid) - A fork of Vendroid
 - [Henry-ZHR/force_dark](https://github.com/Henry-ZHR/force_dark) - 
@@ -156,7 +157,6 @@
 - [Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp) - Android Calculator
 - [ChrisCarini/git-push-reminder-jetbrains-plugin](https://github.com/ChrisCarini/git-push-reminder-jetbrains-plugin) - A plugin for JetBrains IDEs which detects and provides a friendly reminder when a project is closed and there are commits that have not yet been pushed.
 - [Valandur/Web-API](https://github.com/Valandur/Web-API) - RESTful web server for Minecraft Sponge including an admin panel
-- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
 - [mdsol/rest-client](https://github.com/mdsol/rest-client) - Tool to test HTTP/RESTful webservices.
 - [AnaelMobilia/NextINpact-Unofficial](https://github.com/AnaelMobilia/NextINpact-Unofficial) - Application Android "NextINpact (Unofficial)"
@@ -290,7 +290,7 @@
 - [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) - ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
-- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.8.10/1.8.3-dev), Powered by TC
+- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.9.5/1.9.2-dev), Powered by TC
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [Xposed-Modules-Repo/ru.mike.updatelocker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker) - Update Locker: stop update your apps
@@ -368,6 +368,7 @@
 
 ## Shell 
 
+- [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker) - 🐳 Aria2 downloader and AriaNg webui Docker image based on Alpine Linux
 - [casperklein/docker-tmux-builder](https://github.com/casperklein/docker-tmux-builder) - Builds a tmux debian package
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [Un1q32/pfetch](https://github.com/Un1q32/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
