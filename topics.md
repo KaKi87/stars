@@ -36,7 +36,6 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deno](#deno)
-- [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
 - [discord](#discord)
@@ -124,6 +123,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -319,10 +319,6 @@
 - [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [deno-library/logger](https://github.com/deno-library/logger) - logger for deno
 
-## deployment 
-
-- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
-
 ## design 
 
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
@@ -332,7 +328,7 @@
 
 ## devops 
 
-- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 
 ## discord 
 
@@ -355,6 +351,7 @@
 
 ## docker 
 
+- [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker) - 🐳 Aria2 downloader and AriaNg webui Docker image based on Alpine Linux
 - [casperklein/docker-tmux-builder](https://github.com/casperklein/docker-tmux-builder) - Builds a tmux debian package
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
@@ -576,6 +573,7 @@
 
 ## linux 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [mohad12211/twitch-downloader-gui](https://github.com/mohad12211/twitch-downloader-gui) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay (GUI for linux)
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [forge-ext/forge](https://github.com/forge-ext/forge) - Forge - Tiling and Window Manager for Gnome-Shell
@@ -587,7 +585,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [dvershinin/green-recorder](https://github.com/dvershinin/green-recorder) - A simple screen recorder for Linux desktop. Supports Wayland & Xorg
-- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 
@@ -601,6 +598,7 @@
 
 ## macos 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [jacobwhall/marktext](https://github.com/jacobwhall/marktext) - fork of marktext, seeking to modernize our favorite markdown editor
@@ -639,7 +637,6 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
-- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 
 ## music 
 
@@ -765,7 +762,7 @@
 - [UziTech/emel](https://github.com/UziTech/emel) - Create DOM elements with Emmet
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [mdaphinis/adsbypasser](https://github.com/mdaphinis/adsbypasser) - Bypass ad counter if possible.
-- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.8.10/1.8.3-dev), Powered by TC
+- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.9.5/1.9.2-dev), Powered by TC
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [haverstack/axios-fetch-adapter](https://github.com/haverstack/axios-fetch-adapter) - An Axios adapter that uses native `fetch`. Useful for Cloudflare Workers and ServiceWorker environments.
 - [promitheas17j/lemmy-ui-themes](https://github.com/promitheas17j/lemmy-ui-themes) - custom lemmy themes for lemmy-ui
@@ -1004,13 +1001,13 @@
 
 ## terminal 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
-- [subhra74/snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
 
 ## testing 
 
@@ -1037,6 +1034,10 @@
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
+
+## ubuntu 
+
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 
 ## visual-studio-code 
 
@@ -1083,6 +1084,7 @@
 
 ## windows 
 
+- [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
