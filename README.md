@@ -143,6 +143,7 @@
 
 ## Java 
 
+- [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
 - [verticalsync/Sundroid](https://github.com/verticalsync/Sundroid) - A fork of Vendroid
