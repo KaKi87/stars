@@ -85,6 +85,7 @@
 - [mysql](#mysql)
 - [nativescript](#nativescript)
 - [nextjs](#nextjs)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
@@ -657,6 +658,10 @@
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
+## no-code 
+
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+
 ## node 
 
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
@@ -699,6 +704,7 @@
 
 ## others 
 
+- [pufferfish101007/kiwibrowser](https://github.com/pufferfish101007/kiwibrowser) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [claudemods/BasiliskAppImage](https://github.com/claudemods/BasiliskAppImage) - It is What It Is
