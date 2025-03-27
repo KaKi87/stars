@@ -393,6 +393,7 @@
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [nn1ks/RemoteFiles](https://github.com/nn1ks/RemoteFiles) - An open source SFTP client for Android and iOS
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
