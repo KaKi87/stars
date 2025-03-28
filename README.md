@@ -255,7 +255,7 @@
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual and multiplatform extensible offline player
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
