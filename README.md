@@ -23,6 +23,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Others](#others)
@@ -74,7 +75,7 @@
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [scienceetonnante/WordleSutom](https://github.com/scienceetonnante/WordleSutom) - Solve Wordle Sutom using maximum expected information
@@ -191,7 +192,6 @@
 - [Friedshrimp-Studio-TW/Discord-Experiments](https://github.com/Friedshrimp-Studio-TW/Discord-Experiments) - BetterDiscord Discord-Experiments Plugin
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [UziTech/emel](https://github.com/UziTech/emel) - Create DOM elements with Emmet
-- [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [mdaphinis/adsbypasser](https://github.com/mdaphinis/adsbypasser) - Bypass ad counter if possible.
 - [nowthis/sankeymatic](https://github.com/nowthis/sankeymatic) - Make Beautiful Flow Diagrams
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -271,6 +271,10 @@
 ## Less 
 
 - [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
+
+## Makefile 
+
+- [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 
 ## Markdown 
 
