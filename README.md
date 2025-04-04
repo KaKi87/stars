@@ -289,13 +289,12 @@
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [claudemods/BasiliskAppImage](https://github.com/claudemods/BasiliskAppImage) - It is What It Is
 - [wcxo/GitCracken](https://github.com/wcxo/GitCracken) - GitCracken
-- [HuskyDG/magisk-files](https://github.com/HuskyDG/magisk-files) - 
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme for zed.dev
 - [Mte90/yad-static-build](https://github.com/Mte90/yad-static-build) - 
 - [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) - ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
+- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 - [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.9.5/1.9.2-dev), Powered by TC
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
