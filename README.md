@@ -378,6 +378,7 @@
 
 ## Shell 
 
+- [catppuccin/fleet](https://github.com/catppuccin/fleet) - 🌊 Soothing pastel theme for JetBrains Fleet
 - [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker) - 🐳 Aria2 downloader and AriaNg webui Docker image based on Alpine Linux
 - [casperklein/docker-tmux-builder](https://github.com/casperklein/docker-tmux-builder) - Builds a tmux debian package
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
