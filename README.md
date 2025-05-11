@@ -73,6 +73,7 @@
 - [pufferfish101007/kiwibrowser](https://github.com/pufferfish101007/kiwibrowser) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
@@ -178,7 +179,6 @@
 - [forge-ext/forge](https://github.com/forge-ext/forge) - Forge - Tiling and Window Manager for Gnome-Shell
 - [tenRabbits/extension-search-image-with-yandex](https://github.com/tenRabbits/extension-search-image-with-yandex) - Search for similar images in Yandex with open source code, without advertising and analytics.
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
 - [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
