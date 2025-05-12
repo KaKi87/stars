@@ -95,6 +95,7 @@
 - [openai](#openai)
 - [osint](#osint)
 - [others](#others)
+- [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -216,6 +217,7 @@
 
 ## bash 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -293,6 +295,7 @@
 
 ## css 
 
+- [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [nicolas-cusan/destyle.css](https://github.com/nicolas-cusan/destyle.css) - Opinionated reset stylesheet that provides a clean slate for styling your html.
 - [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
@@ -343,6 +346,7 @@
 
 ## discord 
 
+- [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [ricewind012/discord-gnome-theme](https://github.com/ricewind012/discord-gnome-theme) - 
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - An unofficial BetterDiscord injector for the web client.
@@ -470,6 +474,7 @@
 
 ## hacktoberfest 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [catppuccin/fleet](https://github.com/catppuccin/fleet) - 🌊 Soothing pastel theme for JetBrains Fleet
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
@@ -588,6 +593,7 @@
 
 ## linux 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [mohad12211/twitch-downloader-gui](https://github.com/mohad12211/twitch-downloader-gui) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay (GUI for linux)
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -723,6 +729,8 @@
 
 ## others 
 
+- [pulsar-edit/pulsar-electron-next-binaries](https://github.com/pulsar-edit/pulsar-electron-next-binaries) - Hosts Pulsar-Next binaries
+- [refact0r/system24](https://github.com/refact0r/system24) - a tui-like discord theme
 - [SoulBrowser/SoulBrowser](https://github.com/SoulBrowser/SoulBrowser) - 
 - [pufferfish101007/kiwibrowser](https://github.com/pufferfish101007/kiwibrowser) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
@@ -871,6 +879,10 @@
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 
+## package-manager 
+
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
+
 ## php 
 
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -996,6 +1008,7 @@
 
 ## shell 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Un1q32/pfetch](https://github.com/Un1q32/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -1070,6 +1083,7 @@
 
 ## ubuntu 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 
 ## vim 
