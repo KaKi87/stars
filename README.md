@@ -406,6 +406,8 @@
 
 ## TypeScript 
 
+- [oslo-project/otp](https://github.com/oslo-project/otp) - One-time passwords with HOTP and TOTP
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [kernel-mod/electron](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
