@@ -290,6 +290,7 @@
 
 ## Others 
 
+- [KarenTorosyan/jetbrains-ide-gnome-theme-plugin](https://github.com/KarenTorosyan/jetbrains-ide-gnome-theme-plugin) - 
 - [pulsar-edit/pulsar-electron-next-binaries](https://github.com/pulsar-edit/pulsar-electron-next-binaries) - Hosts Pulsar-Next binaries
 - [SoulBrowser/SoulBrowser](https://github.com/SoulBrowser/SoulBrowser) - 
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
@@ -338,6 +339,7 @@
 
 ## Python 
 
+- [lzxgh/OneDarkDarker](https://github.com/lzxgh/OneDarkDarker) - One Dark Darker theme for JetBrains.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -406,6 +408,7 @@
 
 ## TypeScript 
 
+- [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
 - [oslo-project/otp](https://github.com/oslo-project/otp) - One-time passwords with HOTP and TOTP
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
