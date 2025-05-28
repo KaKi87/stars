@@ -735,6 +735,9 @@
 
 ## others 
 
+- [KarenTorosyan/jetbrains-ide-gnome-theme-plugin](https://github.com/KarenTorosyan/jetbrains-ide-gnome-theme-plugin) - 
+- [lzxgh/OneDarkDarker](https://github.com/lzxgh/OneDarkDarker) - One Dark Darker theme for JetBrains.
+- [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
 - [oslo-project/otp](https://github.com/oslo-project/otp) - One-time passwords with HOTP and TOTP
 - [pulsar-edit/pulsar-electron-next-binaries](https://github.com/pulsar-edit/pulsar-electron-next-binaries) - Hosts Pulsar-Next binaries
 - [refact0r/system24](https://github.com/refact0r/system24) - a tui-like discord theme
