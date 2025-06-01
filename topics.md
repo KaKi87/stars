@@ -477,6 +477,7 @@
 
 ## hacktoberfest 
 
+- [badgateway/oauth2-client](https://github.com/badgateway/oauth2-client) - OAuth2 client for Node and browsers
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [catppuccin/fleet](https://github.com/catppuccin/fleet) - 🌊 Soothing pastel theme for JetBrains Fleet
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1083,6 +1084,7 @@
 
 ## typescript 
 
+- [badgateway/oauth2-client](https://github.com/badgateway/oauth2-client) - OAuth2 client for Node and browsers
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
