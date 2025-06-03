@@ -772,7 +772,7 @@
 - [joao678/libui-js](https://github.com/joao678/libui-js) - 
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) - Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
-- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
+- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [cosmic-utils/cosmic-project-collection](https://github.com/cosmic-utils/cosmic-project-collection) - A collection of COSMIC projects developed by the community.
 - [verticalsync/Sunroof](https://github.com/verticalsync/Sunroof) - A fork of Vesktop
