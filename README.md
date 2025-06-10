@@ -127,6 +127,7 @@
 
 ## Go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [leukipp/cortile](https://github.com/leukipp/cortile) - Linux auto tiling manager with hot corner support for Openbox, Fluxbox, IceWM, Xfwm, KWin, Marco, Muffin, Mutter and other EWMH compliant window managers using the X11 window system. Therefore, this p
