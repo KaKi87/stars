@@ -808,7 +808,6 @@
 - [Friedshrimp-Studio-TW/Discord-Experiments](https://github.com/Friedshrimp-Studio-TW/Discord-Experiments) - BetterDiscord Discord-Experiments Plugin
 - [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
