@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [pufferfish101007/kiwibrowser](https://github.com/pufferfish101007/kiwibrowser) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
@@ -150,6 +151,9 @@
 
 ## Java 
 
+- [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
+- [LSPosed/DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure) - 
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
@@ -292,6 +296,7 @@
 
 ## Others 
 
+- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [flathub/com.teamspeak.TeamSpeak](https://github.com/flathub/com.teamspeak.TeamSpeak) - 
 - [KarenTorosyan/jetbrains-ide-gnome-theme-plugin](https://github.com/KarenTorosyan/jetbrains-ide-gnome-theme-plugin) - 
 - [pulsar-edit/pulsar-electron-next-binaries](https://github.com/pulsar-edit/pulsar-electron-next-binaries) - Hosts Pulsar-Next binaries
