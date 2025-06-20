@@ -75,6 +75,7 @@
 - [pufferfish101007/kiwibrowser](https://github.com/pufferfish101007/kiwibrowser) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
@@ -93,7 +94,7 @@
 - [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [promitheas17j/lemmy-ui-themes](https://github.com/promitheas17j/lemmy-ui-themes) - custom lemmy themes for lemmy-ui
-- [DaBluLite/Cyan](https://github.com/DaBluLite/Cyan) - Powerful UX, stunning visuals, like never before
+- [CyanDesign/Discord](https://github.com/CyanDesign/Discord) - Powerful UX, stunning visuals, like never before
 - [Jieiku/theme-dark-arc-gitea](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast for Gitea, based on arc-green.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [Jorenar/RedditOldRedesignedDark](https://github.com/Jorenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
