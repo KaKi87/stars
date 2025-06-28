@@ -753,6 +753,7 @@
 
 ## others 
 
+- [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule) - A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) - Search through all your files
 - [kos984/ku-cli-progress](https://github.com/kos984/ku-cli-progress) - 
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
