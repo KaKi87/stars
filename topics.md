@@ -75,6 +75,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [localization](#localization)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -154,6 +155,7 @@
 
 ## android 
 
+- [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [Aliucord/Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
@@ -393,6 +395,7 @@
 
 ## electron 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [jacobwhall/marktext](https://github.com/jacobwhall/marktext) - fork of marktext, seeking to modernize our favorite markdown editor
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -612,6 +615,7 @@
 
 ## linux 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
@@ -638,6 +642,10 @@
 ## localization 
 
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
+
+## mac 
+
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 
 ## machine-learning 
 
@@ -688,6 +696,7 @@
 
 ## music 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [busybox11/NowPlaying-for-Spotify](https://github.com/busybox11/NowPlaying-for-Spotify) - A Spotify Connect visualizer
 
@@ -713,6 +722,7 @@
 
 ## node 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
@@ -822,7 +832,6 @@
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [aaronccasanova/aacc](https://github.com/aaronccasanova/aacc) - Casa for my packages, projects, and experiments
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual and multiplatform extensible offline player
 - [Friedshrimp-Studio-TW/Discord-Experiments](https://github.com/Friedshrimp-Studio-TW/Discord-Experiments) - BetterDiscord Discord-Experiments Plugin
 - [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
@@ -1203,6 +1212,7 @@
 
 ## windows 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
