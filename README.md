@@ -33,6 +33,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -300,6 +301,7 @@
 
 ## Others 
 
+- [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [flathub/com.teamspeak.TeamSpeak](https://github.com/flathub/com.teamspeak.TeamSpeak) - 
 - [KarenTorosyan/jetbrains-ide-gnome-theme-plugin](https://github.com/KarenTorosyan/jetbrains-ide-gnome-theme-plugin) - 
@@ -379,6 +381,10 @@
 - [antroids/application-title-bar](https://github.com/antroids/application-title-bar) - KDE Plasma6 widget with window controls
 - [iEvgeny/cctv-viewer](https://github.com/iEvgeny/cctv-viewer) - CCTV Viewer - viewer and mounter video streams.
 
+## Ruby 
+
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+
 ## Rust 
 
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
@@ -437,7 +443,7 @@
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
