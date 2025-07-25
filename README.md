@@ -266,6 +266,7 @@
 
 ## Kotlin 
 
+- [accelforce/DevOptsHide](https://github.com/accelforce/DevOptsHide) - Shows enabled developer options as disabled per app
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
 - [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
@@ -339,7 +340,6 @@
 - [Elarson31/TheMachine.aep-Project](https://github.com/Elarson31/TheMachine.aep-Project) - Recreating all Machine VFX on After Effects by Elarson
 - [Vinylwalk3r/JDownloader-2-Dark-Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme) - A dark theme for the download manager JDownloader 2
 - [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock) - Filters for blocking mining, pop-ups and anti-adblock bypass.
-- [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 
 ## PHP 
 
@@ -413,6 +413,7 @@
 
 ## Shell 
 
+- [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [catppuccin/fleet](https://github.com/catppuccin/fleet) - 🌊 Soothing pastel theme for JetBrains Fleet
