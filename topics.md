@@ -791,6 +791,8 @@
 
 ## others 
 
+- [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
+- [accelforce/DevOptsHide](https://github.com/accelforce/DevOptsHide) - Shows enabled developer options as disabled per app
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
@@ -951,7 +953,6 @@
 - [AppImageCommunity/appimaged](https://github.com/AppImageCommunity/appimaged) - appimaged is a daemon that monitors the system and integrates AppImages.
 - [kykc/MsiFanControl](https://github.com/kykc/MsiFanControl) - Fan control utility for MSI laptops
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
-- [kiwibrowser/android](https://github.com/kiwibrowser/android) - This repository is archived, and is now transferred to https://github.com/kiwibrowser/src
 
 ## package-manager 
 
