@@ -273,6 +273,7 @@
 - [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
+- [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [Claxtastic/just-refresh](https://github.com/Claxtastic/just-refresh) - A simple auto-refresh extension for Google Chrome
@@ -894,7 +895,6 @@
 - [skrysmanski/chrome-separators](https://github.com/skrysmanski/chrome-separators) - Workaround for the missing bookmark separators in Chrome and Edge
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - Replicating voicemeeter routing functionalities in linux with pulseaudio
-- [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [lucahammer/mastovue](https://github.com/lucahammer/mastovue) - 
 - [umonaca/mastodon-translate](https://github.com/umonaca/mastodon-translate) - Tampermonkey Script to add option to Translate Toots
