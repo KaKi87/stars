@@ -160,6 +160,7 @@
 
 ## android 
 
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
@@ -181,7 +182,7 @@
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [nn1ks/RemoteFiles](https://github.com/nn1ks/RemoteFiles) - An open source SFTP client for Android and iOS
-- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [AnaelMobilia/NextINpact-Unofficial](https://github.com/AnaelMobilia/NextINpact-Unofficial) - Application Android "NextINpact (Unofficial)"
 - [TachibanaGeneralLaboratories/download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Free and  Open Source software download manager
@@ -635,7 +636,7 @@
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 
 ## laravel 
 
@@ -801,6 +802,8 @@
 
 ## others 
 
+- [cosmic-utils/minimon-applet](https://github.com/cosmic-utils/minimon-applet) - A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
+- [cosmic-utils/observatory](https://github.com/cosmic-utils/observatory) - An in-development system monitor application for the COSMIC desktop environment
 - [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [accelforce/DevOptsHide](https://github.com/accelforce/DevOptsHide) - Shows enabled developer options as disabled per app
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
@@ -986,6 +989,7 @@
 
 ## privacy 
 
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
