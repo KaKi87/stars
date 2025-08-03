@@ -152,7 +152,6 @@
 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 
 ## analytics 
@@ -794,7 +793,6 @@
 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 
 ## osint 
@@ -803,6 +801,7 @@
 
 ## others 
 
+- [Bleuzen/FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter) - Graphical audio convert and filter tool
 - [cosmic-utils/minimon-applet](https://github.com/cosmic-utils/minimon-applet) - A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
 - [cosmic-utils/observatory](https://github.com/cosmic-utils/observatory) - An in-development system monitor application for the COSMIC desktop environment
 - [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
@@ -1076,7 +1075,6 @@
 
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
