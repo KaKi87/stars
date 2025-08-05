@@ -904,7 +904,7 @@
 - [iEvgeny/cctv-viewer](https://github.com/iEvgeny/cctv-viewer) - CCTV Viewer - viewer and mounter video streams.
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
-- [skrysmanski/chrome-separators](https://github.com/skrysmanski/chrome-separators) - Workaround for the missing bookmark separators in Chrome and Edge
+- [skrysm/chrome-separators](https://github.com/skrysm/chrome-separators) - Workaround for the missing bookmark separators in Chrome and Edge
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - Replicating voicemeeter routing functionalities in linux with pulseaudio
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
