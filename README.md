@@ -345,7 +345,7 @@
 
 ## PHP 
 
-- [skrysmanski/chrome-separators](https://github.com/skrysmanski/chrome-separators) - Workaround for the missing bookmark separators in Chrome and Edge
+- [skrysm/chrome-separators](https://github.com/skrysm/chrome-separators) - Workaround for the missing bookmark separators in Chrome and Edge
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
