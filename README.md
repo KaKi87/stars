@@ -374,7 +374,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [carrot69/keep-presence](https://github.com/carrot69/keep-presence) - Keeps your computer awake by moving the mouse or pressing a key when you step away.
 - [Der-Henning/tgtg](https://github.com/Der-Henning/tgtg) - Scanner for Too Good To Go Notifications
-- [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - Replicating voicemeeter routing functionalities in linux with pulseaudio
+- [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - A pulseaudio and pipewire audio mixer inspired by voicemeeter
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [dtrx-py/dtrx](https://github.com/dtrx-py/dtrx) - Do The Right Extraction
