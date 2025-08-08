@@ -908,7 +908,7 @@
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [skrysm/chrome-separators](https://github.com/skrysm/chrome-separators) - Workaround for the missing bookmark separators in Chrome and Edge
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
-- [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - Replicating voicemeeter routing functionalities in linux with pulseaudio
+- [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - A pulseaudio and pipewire audio mixer inspired by voicemeeter
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [lucahammer/mastovue](https://github.com/lucahammer/mastovue) - 
 - [umonaca/mastodon-translate](https://github.com/umonaca/mastodon-translate) - Tampermonkey Script to add option to Translate Toots
