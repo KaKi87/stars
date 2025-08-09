@@ -461,6 +461,8 @@
 
 ## font 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
 - [keshikan/DSEG](https://github.com/keshikan/DSEG) - 7-segment and 14-segment font 7セグ・14セグフォント
 
 ## frontend 
@@ -524,6 +526,7 @@
 
 ## hacktoberfest 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [yuvadm/namehack.club](https://github.com/yuvadm/namehack.club) - An exclusive club of geeks that own the domain hack to their name
 - [badgateway/oauth2-client](https://github.com/badgateway/oauth2-client) - OAuth2 client for Node and browsers
@@ -569,6 +572,7 @@
 
 ## icon-font 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
 
 ## instagram 
@@ -803,6 +807,7 @@
 
 ## others 
 
+- [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix) - A simple LSPosed module to bypass signature checks for apks installed from outside google play
 - [Bleuzen/FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter) - Graphical audio convert and filter tool
 - [cosmic-utils/minimon-applet](https://github.com/cosmic-utils/minimon-applet) - A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
 - [cosmic-utils/observatory](https://github.com/cosmic-utils/observatory) - An in-development system monitor application for the COSMIC desktop environment
@@ -1021,6 +1026,7 @@
 
 ## python 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
@@ -1116,6 +1122,7 @@
 
 ## shell 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Un1q32/pfetch](https://github.com/Un1q32/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
