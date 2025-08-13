@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
