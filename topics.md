@@ -505,6 +505,7 @@
 
 ## golang 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
@@ -627,6 +628,7 @@
 
 ## json 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [nyavro/i18nPlugin](https://github.com/nyavro/i18nPlugin) - Intellij idea i18next support plugin
 
