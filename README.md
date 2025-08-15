@@ -179,7 +179,6 @@
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
 - [serso/android-calculatorpp](https://github.com/serso/android-calculatorpp) - Android Calculator
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp) - Android Calculator
 - [ChrisCarini/git-push-reminder-jetbrains-plugin](https://github.com/ChrisCarini/git-push-reminder-jetbrains-plugin) - A plugin for JetBrains IDEs which detects and provides a friendly reminder when a project is closed and there are commits that have not yet been pushed.
 - [Valandur/Web-API](https://github.com/Valandur/Web-API) - RESTful web server for Minecraft Sponge including an admin panel
@@ -287,6 +286,7 @@
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [nyavro/i18nPlugin](https://github.com/nyavro/i18nPlugin) - Intellij idea i18next support plugin
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
