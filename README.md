@@ -125,6 +125,7 @@
 
 ## Dart 
 
+- [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -447,6 +448,7 @@
 
 ## TypeScript 
 
+- [Fubs/reddit-uncensored](https://github.com/Fubs/reddit-uncensored) - A browser extension to restore deleted posts and comments on Reddit using the Arctic Shift API
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [kos984/ku-cli-progress](https://github.com/kos984/ku-cli-progress) - 
