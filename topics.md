@@ -278,6 +278,7 @@
 
 ## cli 
 
+- [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -655,6 +656,7 @@
 
 ## linux 
 
+- [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
