@@ -315,6 +315,7 @@
 
 ## Others 
 
+- [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) - Github action to maximize the available disk space on Github runners
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
