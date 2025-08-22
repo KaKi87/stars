@@ -311,7 +311,7 @@
 ## cpp 
 
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-- [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
+- [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
@@ -474,7 +474,7 @@
 ## git 
 
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
+- [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
@@ -807,6 +807,7 @@
 
 ## others 
 
+- [macchrome/droidchrome](https://github.com/macchrome/droidchrome) - 
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [Fubs/reddit-uncensored](https://github.com/Fubs/reddit-uncensored) - A browser extension to restore deleted posts and comments on Reddit using the Arctic Shift API
 - [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix) - A simple LSPosed module to bypass signature checks for apks installed from outside google play
@@ -1049,7 +1050,7 @@
 ## qt 
 
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-- [francescmm/GitQlient](https://github.com/francescmm/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
+- [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [fabiobento512/FRequest](https://github.com/fabiobento512/FRequest) - FRequest - A fast, lightweight and opensource desktop application to make HTTP(s) requests
 
