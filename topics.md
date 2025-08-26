@@ -174,7 +174,7 @@
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
@@ -388,7 +388,7 @@
 - [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
 - [CyanDesign/Discord](https://github.com/CyanDesign/Discord) - Powerful UX, stunning visuals, like never before
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
@@ -537,7 +537,6 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -592,7 +591,7 @@
 ## java 
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## javascript 
@@ -636,7 +635,7 @@
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
@@ -879,7 +878,7 @@
 - [antroids/application-title-bar](https://github.com/antroids/application-title-bar) - KDE Plasma6 widget with window controls
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
-- [LancersBucket/plugin-RemoveChatButtons](https://github.com/LancersBucket/plugin-RemoveChatButtons) - A BetterDiscord plugin to hide annoying elements in Discord
+- [LancersBucket/plugin-RemoveChatButtons](https://github.com/LancersBucket/plugin-RemoveChatButtons) - A BetterDiscord plugin to remove annoying elements in Discord
 - [Mte90/yad-static-build](https://github.com/Mte90/yad-static-build) - 
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [neuralworm/bytez](https://github.com/neuralworm/bytez) - Convert bytes from number or string type into a formatted, readable string.
