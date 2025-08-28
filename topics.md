@@ -803,6 +803,8 @@
 
 ## others 
 
+- [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
+- [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify.
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
 - [macchrome/droidchrome](https://github.com/macchrome/droidchrome) - 
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
