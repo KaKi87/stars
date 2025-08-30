@@ -274,6 +274,7 @@
 
 ## Kotlin 
 
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [accelforce/DevOptsHide](https://github.com/accelforce/DevOptsHide) - Shows enabled developer options as disabled per app
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
