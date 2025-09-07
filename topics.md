@@ -52,6 +52,7 @@
 - [flutter](#flutter)
 - [font](#font)
 - [frontend](#frontend)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -474,6 +475,10 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [crcn/sift.js](https://github.com/crcn/sift.js) - Use Mongodb queries in JavaScript
 - [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
+
+## gaming 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## git 
 
