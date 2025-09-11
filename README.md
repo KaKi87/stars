@@ -458,6 +458,7 @@
 
 ## TypeScript 
 
+- [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant markdown builder with minimal bundle size.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
