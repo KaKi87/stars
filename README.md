@@ -214,7 +214,7 @@
 - [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
 - [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
 - [Pony-House/Client](https://github.com/Pony-House/Client) - The open source house, your house, the house for all matrix ponies
-- [LancersBucket/plugin-RemoveChatButtons](https://github.com/LancersBucket/plugin-RemoveChatButtons) - A BetterDiscord plugin to remove annoying elements in Discord
+- [LancersBucket/plugin-RemoveChatButtons](https://github.com/LancersBucket/plugin-RemoveChatButtons) - ChatButtonsBegone: A BetterDiscord plugin to remove annoying elements in Discord
 - [neuralworm/bytez](https://github.com/neuralworm/bytez) - Convert bytes from number or string type into a formatted, readable string.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
@@ -435,6 +435,7 @@
 
 ## Shell 
 
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
