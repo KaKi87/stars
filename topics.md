@@ -18,7 +18,6 @@
 - [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
-- [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
@@ -202,7 +201,6 @@
 
 - [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 
 ## atom 
 
@@ -249,10 +247,6 @@
 
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 
-## bot 
-
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
-
 ## c 
 
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -264,7 +258,6 @@
 
 ## chrome 
 
-- [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [AlexandraKreidich/SwitchGithubAccounts](https://github.com/AlexandraKreidich/SwitchGithubAccounts) - Chrome extension
 
@@ -272,7 +265,6 @@
 
 - [subdavis/Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
-- [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
@@ -327,7 +319,6 @@
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [nicolas-cusan/destyle.css](https://github.com/nicolas-cusan/destyle.css) - Opinionated reset stylesheet that provides a clean slate for styling your html.
-- [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [Tropix126/fluent-svelte](https://github.com/Tropix126/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
@@ -356,13 +347,11 @@
 
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [deno-library/logger](https://github.com/deno-library/logger) - logger for deno
 
 ## design 
 
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 
@@ -386,21 +375,12 @@
 
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [ricewind012/discord-gnome-theme](https://github.com/ricewind012/discord-gnome-theme) - 
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
-- [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
-- [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord) - Windows 11 Fluent Discord theme.
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-- [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
-- [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
-- [CyanDesign/Discord](https://github.com/CyanDesign/Discord) - Powerful UX, stunning visuals, like never before
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
-- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
-- [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## django 
@@ -424,7 +404,7 @@
 
 ## electron 
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [jacobwhall/marktext](https://github.com/jacobwhall/marktext) - fork of marktext, seeking to modernize our favorite markdown editor
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -469,6 +449,7 @@
 
 ## frontend 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [skynet2982/awesome-alternative-front-ends](https://github.com/skynet2982/awesome-alternative-front-ends) - A curated list of Open Source alternative front-ends for popular websites.
@@ -556,7 +537,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
@@ -624,7 +604,6 @@
 - [Tropix126/fluent-svelte](https://github.com/Tropix126/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [skepticfx/wshook](https://github.com/skepticfx/wshook) - Easily intercept and modify WebSocket requests and message events.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [Claxtastic/just-refresh](https://github.com/Claxtastic/just-refresh) - A simple auto-refresh extension for Google Chrome
@@ -662,14 +641,13 @@
 
 ## library 
 
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 
 ## linux 
 
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
 - [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
@@ -699,7 +677,7 @@
 
 ## mac 
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 
 ## machine-learning 
 
@@ -753,7 +731,7 @@
 
 ## music 
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [busybox11/NowPlaying-for-Spotify](https://github.com/busybox11/NowPlaying-for-Spotify) - A Spotify Connect visualizer
 
@@ -781,7 +759,7 @@
 
 ## node 
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
@@ -794,7 +772,6 @@
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [spacebarchat/martian](https://github.com/spacebarchat/martian) - A NodeJS Fosscord library
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [binsarjr/search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs) - Search Engine Nodejs di buat dari hasil scraping dari beberap search engine yaitu, Aol, Ask, Baidu, Bing, Google dan Yahoo, search engine ini belum sempurna,tetapi jika ada yg ingin mengembangkannya s
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 
@@ -822,6 +799,7 @@
 
 ## others 
 
+- [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant markdown builder with minimal bundle size.
 - [thngkaiyuan/js-toggle](https://github.com/thngkaiyuan/js-toggle) - A Chrome extension to help you toggle the Javascript setting on any page with ease.
@@ -856,7 +834,6 @@
 - [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
 - [oslo-project/otp](https://github.com/oslo-project/otp) - One-time passwords with HOTP and TOTP
 - [pulsar-edit/pulsar-electron-next-binaries](https://github.com/pulsar-edit/pulsar-electron-next-binaries) - Hosts Pulsar-Next binaries
-- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [SoulBrowser/SoulBrowser](https://github.com/SoulBrowser/SoulBrowser) - 
 - [pufferfish101007/kiwibrowser](https://github.com/pufferfish101007/kiwibrowser) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
@@ -904,14 +881,12 @@
 - [antroids/application-title-bar](https://github.com/antroids/application-title-bar) - KDE Plasma6 widget with window controls
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
-- [LancersBucket/plugin-RemoveChatButtons](https://github.com/LancersBucket/plugin-RemoveChatButtons) - ChatButtonsBegone: A BetterDiscord plugin to remove annoying elements in Discord
 - [Mte90/yad-static-build](https://github.com/Mte90/yad-static-build) - 
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [neuralworm/bytez](https://github.com/neuralworm/bytez) - Convert bytes from number or string type into a formatted, readable string.
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [aaronccasanova/aacc](https://github.com/aaronccasanova/aacc) - Casa for my packages, projects, and experiments
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
-- [Friedshrimp-Studio-TW/Discord-Experiments](https://github.com/Friedshrimp-Studio-TW/Discord-Experiments) - BetterDiscord Discord-Experiments Plugin
 - [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
@@ -954,7 +929,6 @@
 - [jarek-foksa/xel](https://github.com/jarek-foksa/xel) - Xel - Widget toolkit for building native-like Electron and Web apps
 - [ndjson/ndjson-spec](https://github.com/ndjson/ndjson-spec) - Specification
 - [Jieiku/theme-dark-arc-gitea](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast for Gitea, based on arc-green.
-- [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
 - [nicole-ashley/json-formatter](https://github.com/nicole-ashley/json-formatter) - Makes JSON/JSONP easy to read.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [pgsql-io/omnidb-ng](https://github.com/pgsql-io/omnidb-ng) - Web tool for database management
@@ -1023,6 +997,7 @@
 
 ## privacy 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
@@ -1091,7 +1066,6 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## reactjs 
@@ -1124,6 +1098,7 @@
 
 ## security 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -1131,10 +1106,12 @@
 
 ## security-tools 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 
 ## self-hosted 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards) - Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's produ
@@ -1238,7 +1215,6 @@
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 
 ## ubuntu 
@@ -1281,6 +1257,7 @@
 
 ## web 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
@@ -1308,7 +1285,7 @@
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
 - [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings) - Guide to privacy settings for most major software and services.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
