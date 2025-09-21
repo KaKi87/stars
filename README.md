@@ -23,7 +23,6 @@
 - [JavaScript](#javascript)
 - [Just](#just)
 - [Kotlin](#kotlin)
-- [Less](#less)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -99,13 +98,10 @@
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
-- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme
 - [keshikan/DSEG](https://github.com/keshikan/DSEG) - 7-segment and 14-segment font 7セグ・14セグフォント
 - [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
-- [CapnKitten/Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [promitheas17j/lemmy-ui-themes](https://github.com/promitheas17j/lemmy-ui-themes) - custom lemmy themes for lemmy-ui
-- [CyanDesign/Discord](https://github.com/CyanDesign/Discord) - Powerful UX, stunning visuals, like never before
 - [Jieiku/theme-dark-arc-gitea](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast for Gitea, based on arc-green.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [Jorenar/RedditOldRedesignedDark](https://github.com/Jorenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
@@ -211,14 +207,11 @@
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
-- [tsukasa/BdBrowser](https://github.com/tsukasa/BdBrowser) - 💉 An unofficial BetterDiscord injector for the web client
 - [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
 - [Pony-House/Client](https://github.com/Pony-House/Client) - The open source house, your house, the house for all matrix ponies
-- [LancersBucket/plugin-RemoveChatButtons](https://github.com/LancersBucket/plugin-RemoveChatButtons) - ChatButtonsBegone: A BetterDiscord plugin to remove annoying elements in Discord
 - [neuralworm/bytez](https://github.com/neuralworm/bytez) - Convert bytes from number or string type into a formatted, readable string.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
-- [Friedshrimp-Studio-TW/Discord-Experiments](https://github.com/Friedshrimp-Studio-TW/Discord-Experiments) - BetterDiscord Discord-Experiments Plugin
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [UziTech/emel](https://github.com/UziTech/emel) - Create DOM elements with Emmet
 - [mdaphinis/adsbypasser](https://github.com/mdaphinis/adsbypasser) - Bypass ad counter if possible.
@@ -234,7 +227,6 @@
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
-- [JustOptimize/ShowHiddenChannels](https://github.com/JustOptimize/ShowHiddenChannels) - A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.
 - [umonaca/mastodon-translate](https://github.com/umonaca/mastodon-translate) - Tampermonkey Script to add option to Translate Toots
 - [crcn/sift.js](https://github.com/crcn/sift.js) - Use Mongodb queries in JavaScript
 - [seald/nedb](https://github.com/seald/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
@@ -257,7 +249,6 @@
 - [skepticfx/wshook](https://github.com/skepticfx/wshook) - Easily intercept and modify WebSocket requests and message events.
 - [pd4d10/json-viewer](https://github.com/pd4d10/json-viewer) - Port of Firefox's JSON Viewer for Chromium-based Browsers
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
-- [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [Claxtastic/just-refresh](https://github.com/Claxtastic/just-refresh) - A simple auto-refresh extension for Google Chrome
@@ -304,10 +295,6 @@
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [patou/gitmoji-intellij-plugin](https://github.com/patou/gitmoji-intellij-plugin) - Intellij plugin for add a button on the commit dialog to add gitmoji
 
-## Less 
-
-- [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
-
 ## Makefile 
 
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
@@ -322,6 +309,7 @@
 
 ## Others 
 
+- [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [macchrome/droidchrome](https://github.com/macchrome/droidchrome) - 
 - [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
@@ -460,6 +448,7 @@
 
 ## TypeScript 
 
+- [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant markdown builder with minimal bundle size.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -467,7 +456,7 @@
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
 - [Fubs/reddit-uncensored](https://github.com/Fubs/reddit-uncensored) - A browser extension to restore deleted posts and comments on Reddit using the Arctic Shift API
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [kos984/ku-cli-progress](https://github.com/kos984/ku-cli-progress) - 
 - [badgateway/oauth2-client](https://github.com/badgateway/oauth2-client) - OAuth2 client for Node and browsers
 - [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
@@ -490,7 +479,6 @@
 - [kasecato/vscode-intellij-idea-keybindings](https://github.com/kasecato/vscode-intellij-idea-keybindings) - Port of IntelliJ IDEA key bindings for VS Code.
 - [berstend/tiny-request-router](https://github.com/berstend/tiny-request-router) - :rocket: Fast, generic and type safe router (match request method and path).
 - [3846masa/axios-cookiejar-support](https://github.com/3846masa/axios-cookiejar-support) - Add tough-cookie support to axios.
-- [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [aaronccasanova/aacc](https://github.com/aaronccasanova/aacc) - Casa for my packages, projects, and experiments
@@ -510,10 +498,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
-- [spacebarchat/client](https://github.com/spacebarchat/client) - Open source, themeable and extendable discord-compatible native Spacebar client
-- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [trim21/axios-userscript-adapter](https://github.com/trim21/axios-userscript-adapter) - 
-- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [deno-library/logger](https://github.com/deno-library/logger) - logger for deno
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
