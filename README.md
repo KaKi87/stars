@@ -211,7 +211,6 @@
 - [Pony-House/Client](https://github.com/Pony-House/Client) - The open source house, your house, the house for all matrix ponies
 - [neuralworm/bytez](https://github.com/neuralworm/bytez) - Convert bytes from number or string type into a formatted, readable string.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [UziTech/emel](https://github.com/UziTech/emel) - Create DOM elements with Emmet
 - [mdaphinis/adsbypasser](https://github.com/mdaphinis/adsbypasser) - Bypass ad counter if possible.
@@ -482,6 +481,7 @@
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [aaronccasanova/aacc](https://github.com/aaronccasanova/aacc) - Casa for my packages, projects, and experiments
+- [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [haverstack/axios-fetch-adapter](https://github.com/haverstack/axios-fetch-adapter) - An Axios adapter that uses native `fetch`. Useful for Cloudflare Workers and ServiceWorker environments.
