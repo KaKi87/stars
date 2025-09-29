@@ -336,7 +336,6 @@
 - [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [hueyy/awesome-mastodon](https://github.com/hueyy/awesome-mastodon) - Up-to-date and curated list of awesome Mastodon-related stuff!
 - [AmjadHD/sublime_one_theme](https://github.com/AmjadHD/sublime_one_theme) - 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡.
-- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [ndjson/ndjson-spec](https://github.com/ndjson/ndjson-spec) - Specification
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
