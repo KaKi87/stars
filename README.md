@@ -445,7 +445,7 @@
 ## Svelte 
 
 - [asimons04/tesseract](https://github.com/asimons04/tesseract) - 
-- [Tropix126/fluent-svelte](https://github.com/Tropix126/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
+- [tropicaaal/fluent-svelte](https://github.com/tropicaaal/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
 
 ## TypeScript 
