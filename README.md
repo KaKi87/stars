@@ -460,7 +460,7 @@
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
 - [Fubs/reddit-uncensored](https://github.com/Fubs/reddit-uncensored) - A browser extension to restore deleted posts and comments on Reddit using the Arctic Shift API
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [kos984/ku-cli-progress](https://github.com/kos984/ku-cli-progress) - 
 - [badgateway/oauth2-client](https://github.com/badgateway/oauth2-client) - OAuth2 client for Node and browsers
 - [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
