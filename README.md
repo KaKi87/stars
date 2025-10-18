@@ -403,6 +403,9 @@
 
 ## Rust 
 
+- [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [cofob/fastside](https://github.com/cofob/fastside) - A smart redirecting gateway for various frontend services.
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [cosmic-utils/minimon-applet](https://github.com/cosmic-utils/minimon-applet) - A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
