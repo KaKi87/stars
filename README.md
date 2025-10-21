@@ -29,6 +29,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
 - [Ruby](#ruby)
@@ -48,7 +49,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
 
@@ -214,7 +214,7 @@
 - [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit
 - [Pony-House/Client](https://github.com/Pony-House/Client) - The open source house, your house, the house for all matrix ponies
 - [neuralworm/bytez](https://github.com/neuralworm/bytez) - Convert bytes from number or string type into a formatted, readable string.
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [UziTech/emel](https://github.com/UziTech/emel) - Create DOM elements with Emmet
 - [mdaphinis/adsbypasser](https://github.com/mdaphinis/adsbypasser) - Bypass ad counter if possible.
@@ -360,6 +360,10 @@
 
 - [bgrabitmap/lazpaint](https://github.com/bgrabitmap/lazpaint) - 🎨 Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal)
 
+## PowerShell 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
 ## Python 
 
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
@@ -426,6 +430,7 @@
 
 ## Shell 
 
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
