@@ -1260,7 +1260,7 @@
 
 ## visualization 
 
-- [pcprinz/loxer](https://github.com/pcprinz/loxer) - A middleware logger that helps you make informational beauitiful logs exactly when you need them and in a way that it would be unnessecary to delete them.
+- [achillease/loxer](https://github.com/achillease/loxer) - A middleware logger that helps you make informational beauitiful logs exactly when you need them and in a way that it would be unnessecary to delete them.
 
 ## vue 
 
