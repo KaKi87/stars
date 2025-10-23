@@ -452,7 +452,7 @@
 
 ## TypeScript 
 
-- [pcprinz/loxer](https://github.com/pcprinz/loxer) - A middleware logger that helps you make informational beauitiful logs exactly when you need them and in a way that it would be unnessecary to delete them.
+- [achillease/loxer](https://github.com/achillease/loxer) - A middleware logger that helps you make informational beauitiful logs exactly when you need them and in a way that it would be unnessecary to delete them.
 - [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant markdown builder with minimal bundle size.
