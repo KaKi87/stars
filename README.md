@@ -195,6 +195,7 @@
 
 ## JavaScript 
 
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [thngkaiyuan/js-toggle](https://github.com/thngkaiyuan/js-toggle) - A Chrome extension to help you toggle the Javascript setting on any page with ease.
 - [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify.
 - [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - A KSU WebUI to configure Tricky Store target.txt
@@ -452,6 +453,7 @@
 
 ## TypeScript 
 
+- [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [achillease/loxer](https://github.com/achillease/loxer) - A middleware logger that helps you make informational beauitiful logs exactly when you need them and in a way that it would be unnessecary to delete them.
 - [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
