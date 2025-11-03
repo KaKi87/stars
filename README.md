@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -40,6 +41,10 @@
 - [Vala](#vala)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+
+## Adblock Filter List 
+
+- [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 
 ## Astro 
 
