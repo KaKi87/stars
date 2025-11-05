@@ -70,6 +70,7 @@
 
 ## C# # 
 
+- [CharlieDigital/typescript-is-like-csharp](https://github.com/CharlieDigital/typescript-is-like-csharp) - A set of docs helping TypeScript developers learn C# (or vice versa!)
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - Dynamic Tiling Window Manager for Windows
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
@@ -153,6 +154,7 @@
 
 ## HTML 
 
+- [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [RealCyGuy/trianglify-generator](https://github.com/RealCyGuy/trianglify-generator) - a free trianglify.js generator that requires no coding
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
