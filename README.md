@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
