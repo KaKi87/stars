@@ -839,6 +839,7 @@
 
 ## others 
 
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [denschub/chrome-mask](https://github.com/denschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
 - [Zren/plasma-applet-commandoutput](https://github.com/Zren/plasma-applet-commandoutput) - 
