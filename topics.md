@@ -567,7 +567,6 @@
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [patou/gitmoji-intellij-plugin](https://github.com/patou/gitmoji-intellij-plugin) - Intellij plugin for add a button on the commit dialog to add gitmoji
