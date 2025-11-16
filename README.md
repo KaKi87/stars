@@ -508,6 +508,7 @@
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [aaronccasanova/aacc](https://github.com/aaronccasanova/aacc) - Casa for my packages, projects, and experiments
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
@@ -541,7 +542,6 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 
