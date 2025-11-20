@@ -447,7 +447,7 @@
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
-- [DanGLES3/NoStorageRestrict](https://github.com/DanGLES3/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
+- [DanGLVK/NoStorageRestrict](https://github.com/DanGLVK/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [catppuccin/fleet](https://github.com/catppuccin/fleet) - 🌊 Soothing pastel theme for JetBrains Fleet
@@ -461,7 +461,7 @@
 - [ardevd/scrcpy-appimage](https://github.com/ardevd/scrcpy-appimage) - 
 - [SchildiChat/schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop) - Matrix client / Element Web/Desktop fork
 - [denysdovhan/one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) - Atom's One Dark and One Light theme for GNOME Terminal
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 
 ## Svelte 
 
