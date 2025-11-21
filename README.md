@@ -203,6 +203,7 @@
 
 ## JavaScript 
 
+- [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [FraserHamilton/dayjs-recur](https://github.com/FraserHamilton/dayjs-recur) - Day.js plugin for matching and generating recurring dates.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
 - [denschub/chrome-mask](https://github.com/denschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
@@ -489,7 +490,6 @@
 - [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
 - [oslo-project/otp](https://github.com/oslo-project/otp) - One-time passwords with HOTP and TOTP
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
-- [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 - [kernel-mod/electron](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
