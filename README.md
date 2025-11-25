@@ -525,7 +525,7 @@
 - [DevP0tion/dndb](https://github.com/DevP0tion/dndb) - A Deno 🦕 persistent, embeddable and optimized NoSQL database for JS & TS
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
+- [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno, Bun and the browser.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [trim21/axios-userscript-adapter](https://github.com/trim21/axios-userscript-adapter) - 
 - [deno-library/logger](https://github.com/deno-library/logger) - logger for deno
