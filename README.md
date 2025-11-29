@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
 - [Bleuzen/FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter) - Graphical audio convert and filter tool
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -448,7 +449,6 @@
 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [DanGLVK/NoStorageRestrict](https://github.com/DanGLVK/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
