@@ -173,6 +173,7 @@
 
 ## android 
 
+- [tosinonikute/NotelyVoice](https://github.com/tosinonikute/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 50+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens 
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -629,6 +630,7 @@
 
 ## ios 
 
+- [tosinonikute/NotelyVoice](https://github.com/tosinonikute/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 50+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens 
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
@@ -1248,6 +1250,7 @@
 
 ## swift 
 
+- [tosinonikute/NotelyVoice](https://github.com/tosinonikute/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 50+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens 
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
