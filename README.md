@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [tosinonikute/NotelyVoice](https://github.com/tosinonikute/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 50+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens 
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
 - [Bleuzen/FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter) - Graphical audio convert and filter tool
