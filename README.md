@@ -315,7 +315,7 @@
 - [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
 - [siosio/EmojiCommitLogViewer](https://github.com/siosio/EmojiCommitLogViewer) - 
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
-- [patou/gitmoji-intellij-plugin](https://github.com/patou/gitmoji-intellij-plugin) - Intellij plugin for add a button on the commit dialog to add gitmoji
+- [patou/gitmoji-plus-commit-button](https://github.com/patou/gitmoji-plus-commit-button) - Intellij plugin for add a button on the commit dialog to add gitmoji
 
 ## Makefile 
 
