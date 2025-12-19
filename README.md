@@ -176,6 +176,7 @@
 
 ## Java 
 
+- [AutismSuperman/git-commit-message-helper](https://github.com/AutismSuperman/git-commit-message-helper) - A JetBrains series plugin to help git code submission specifications, support IDEA, WebStorm, AndroidStudio, PyCharm, CLoin, GoLand, PhpStorm ...   https://plugins.jetbrains.com/plugin/13477-git-commi
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [kocielnik/Ghost-Android](https://github.com/kocielnik/Ghost-Android) - 🤖 Ghost for Android
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -222,7 +223,6 @@
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [RailForLess/railforless](https://github.com/RailForLess/railforless) - Amtrak fare-scraping service
 - [subdavis/Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
-- [forge-ext/forge](https://github.com/forge-ext/forge) - Forge - Tiling and Window Manager for Gnome-Shell
 - [tenRabbits/extension-search-image-with-yandex](https://github.com/tenRabbits/extension-search-image-with-yandex) - Search for similar images in Yandex with open source code, without advertising and analytics.
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
@@ -474,6 +474,7 @@
 
 ## Swift 
 
+- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 
@@ -499,7 +500,6 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [kernel-mod/electron](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
-- [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
