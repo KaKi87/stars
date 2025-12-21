@@ -540,7 +540,7 @@
 
 ## golang 
 
-- [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
+- [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1024,7 +1024,7 @@
 - [theofficialgman/edex-ui](https://github.com/theofficialgman/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [trim21/axios-userscript-adapter](https://github.com/trim21/axios-userscript-adapter) - 
 - [liangwp/simple-mysql](https://github.com/liangwp/simple-mysql) - A wrapper for MySQL 8 X DevAPI, hoping to make session management easier
-- [Jorenar/RedditOldRedesignedDark](https://github.com/Jorenar/RedditOldRedesignedDark) - Dark theme for Reddit Old
+- [Jorenar/RedditOldRedesignedDark](https://github.com/Jorenar/RedditOldRedesignedDark) - 
 - [hrvstr/scene-release](https://github.com/hrvstr/scene-release) - parse scene release names
 - [BoldBrowser/bold-browser](https://github.com/BoldBrowser/bold-browser) - Core codebase for Bold Browser (build scripts will be in other repositories)
 - [pd4d10/json-viewer](https://github.com/pd4d10/json-viewer) - Port of Firefox's JSON Viewer for Chromium-based Browsers
@@ -1290,7 +1290,7 @@
 ## tui 
 
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
+- [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
