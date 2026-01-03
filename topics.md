@@ -146,6 +146,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [userscript](#userscript)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
@@ -1028,7 +1029,6 @@
 - [pgsql-io/omnidb-ng](https://github.com/pgsql-io/omnidb-ng) - Web tool for database management
 - [kingjan1999/rapipdf-cli](https://github.com/kingjan1999/rapipdf-cli) - 
 - [scienceetonnante/WordleSutom](https://github.com/scienceetonnante/WordleSutom) - Solve Wordle Sutom using maximum expected information
-- [vladgba/Back2source](https://github.com/vladgba/Back2source) - Userscript for redirect to source sites from sites with machine translation, etc.
 - [dtrx-py/dtrx](https://github.com/dtrx-py/dtrx) - Do The Right Extraction
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
 - [theofficialgman/edex-ui](https://github.com/theofficialgman/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -1347,6 +1347,11 @@
 - [tropicaaal/fluent-svelte](https://github.com/tropicaaal/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
+
+## userscript 
+
+- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
+- [vladgba/Back2source](https://github.com/vladgba/Back2source) - Userscript for redirect to source sites from sites with machine translation, etc.
 
 ## vim 
 
