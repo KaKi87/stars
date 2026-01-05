@@ -885,6 +885,8 @@
 
 ## others 
 
+- [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
+- [docyx/imdb-table](https://github.com/docyx/imdb-table) - IMDb rating tables and watch times for TV shows.
 - [AutismSuperman/git-commit-message-helper](https://github.com/AutismSuperman/git-commit-message-helper) - A JetBrains series plugin to help git code submission specifications, support IDEA, WebStorm, AndroidStudio, PyCharm, CLoin, GoLand, PhpStorm ...   https://plugins.jetbrains.com/plugin/13477-git-commi
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [onriv/lean4ij](https://github.com/onriv/lean4ij) - A Lean4 plugin for the Intellij Platform
