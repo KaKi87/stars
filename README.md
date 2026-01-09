@@ -252,7 +252,6 @@
 - [umonaca/mastodon-translate](https://github.com/umonaca/mastodon-translate) - Tampermonkey Script to add option to Translate Toots
 - [crcn/sift.js](https://github.com/crcn/sift.js) - Use Mongodb queries in JavaScript
 - [seald/nedb](https://github.com/seald/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
-- [pelogvc/tor-axios](https://github.com/pelogvc/tor-axios) - use axios through tor network
 - [germanfr/cinnamon-transparent-panels](https://github.com/germanfr/cinnamon-transparent-panels) - Make your panels transparent when no windows are maximized
 - [atulitanand/fluent-terminal-theme-generator](https://github.com/atulitanand/fluent-terminal-theme-generator) - 
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
@@ -332,6 +331,7 @@
 
 ## Others 
 
+- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [macchrome/droidchrome](https://github.com/macchrome/droidchrome) - 
 - [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
@@ -476,6 +476,7 @@
 
 ## Swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [jwhamilton99/menu-bar-splitter](https://github.com/jwhamilton99/menu-bar-splitter) - a mac utility for keeping your menu bar organized
 - [felixblome/easy-ethernet-icon](https://github.com/felixblome/easy-ethernet-icon) - A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -484,6 +485,8 @@
 
 ## TypeScript 
 
+- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+- [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
 - [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
 - [kvandake/lexorank-ts](https://github.com/kvandake/lexorank-ts) - A reference implementation of a list ordering system like JIRA's Lexorank algorithm
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
@@ -536,6 +539,7 @@
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [DevP0tion/dndb](https://github.com/DevP0tion/dndb) - A Deno 🦕 persistent, embeddable and optimized NoSQL database for JS & TS
+- [pelogvc/tor-axios](https://github.com/pelogvc/tor-axios) - use axios through tor network
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno, Bun and the browser.
