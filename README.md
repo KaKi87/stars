@@ -485,7 +485,6 @@
 
 ## TypeScript 
 
-- [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
 - [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
 - [kvandake/lexorank-ts](https://github.com/kvandake/lexorank-ts) - A reference implementation of a list ordering system like JIRA's Lexorank algorithm
