@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ASL](#asl)
 - [Adblock Filter List](#adblock-filter-list)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
@@ -42,6 +43,10 @@
 - [Vala](#vala)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+
+## ASL 
+
+- [Neelakurinji123/ThinkPad-x260-OpenCore](https://github.com/Neelakurinji123/ThinkPad-x260-OpenCore) - Bootloader configuration for macOS on x260 and possibly others 6th gen ThinkPads
 
 ## Adblock Filter List 
 
