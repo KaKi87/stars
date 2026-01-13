@@ -147,6 +147,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [userscript](#userscript)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
@@ -894,6 +895,7 @@
 
 ## others 
 
+- [Neelakurinji123/ThinkPad-x260-OpenCore](https://github.com/Neelakurinji123/ThinkPad-x260-OpenCore) - Bootloader configuration for macOS on x260 and possibly others 6th gen ThinkPads
 - [jwhamilton99/menu-bar-splitter](https://github.com/jwhamilton99/menu-bar-splitter) - a mac utility for keeping your menu bar organized
 - [felixblome/easy-ethernet-icon](https://github.com/felixblome/easy-ethernet-icon) - A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
 - [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
@@ -1007,7 +1009,6 @@
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
 - [haverstack/axios-fetch-adapter](https://github.com/haverstack/axios-fetch-adapter) - An Axios adapter that uses native `fetch`. Useful for Cloudflare Workers and ServiceWorker environments.
 - [promitheas17j/lemmy-ui-themes](https://github.com/promitheas17j/lemmy-ui-themes) - custom lemmy themes for lemmy-ui
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [snd/url-pattern](https://github.com/snd/url-pattern) - easier than regex string matching patterns for urls and other strings. turn strings into data or data into strings.
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [starak/node-console-stamp](https://github.com/starak/node-console-stamp) - Patch NodeJS console methods in order to add timestamp information by pattern
@@ -1369,6 +1370,10 @@
 
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [vladgba/Back2source](https://github.com/vladgba/Back2source) - Userscript for redirect to source sites from sites with machine translation, etc.
+
+## video 
+
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 
 ## vim 
 
