@@ -336,6 +336,7 @@
 
 ## Others 
 
+- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [macchrome/droidchrome](https://github.com/macchrome/droidchrome) - 
