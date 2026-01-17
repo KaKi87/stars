@@ -896,6 +896,8 @@
 
 ## others 
 
+- [obiscr/intellij-community](https://github.com/obiscr/intellij-community) - This project is a Git client based on IntelliJ Community and is still in development.
+- [balu8108/intellij-community-fork](https://github.com/balu8108/intellij-community-fork) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [Neelakurinji123/ThinkPad-x260-OpenCore](https://github.com/Neelakurinji123/ThinkPad-x260-OpenCore) - Bootloader configuration for macOS on x260 and possibly others 6th gen ThinkPads
 - [jwhamilton99/menu-bar-splitter](https://github.com/jwhamilton99/menu-bar-splitter) - a mac utility for keeping your menu bar organized
 - [felixblome/easy-ethernet-icon](https://github.com/felixblome/easy-ethernet-icon) - A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
