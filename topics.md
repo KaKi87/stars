@@ -896,6 +896,7 @@
 
 ## others 
 
+- [0r0loo/quick-log](https://github.com/0r0loo/quick-log) - Instant console.log generator for WebStorm. Just hit a shortcut and debug like a pro.
 - [obiscr/intellij-community](https://github.com/obiscr/intellij-community) - This project is a Git client based on IntelliJ Community and is still in development.
 - [balu8108/intellij-community-fork](https://github.com/balu8108/intellij-community-fork) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [Neelakurinji123/ThinkPad-x260-OpenCore](https://github.com/Neelakurinji123/ThinkPad-x260-OpenCore) - Bootloader configuration for macOS on x260 and possibly others 6th gen ThinkPads
