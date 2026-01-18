@@ -18,7 +18,6 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [JSON](#json)
@@ -147,10 +146,6 @@
 
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 ## Go 
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -237,6 +232,7 @@
 - [subdavis/Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
 - [tenRabbits/extension-search-image-with-yandex](https://github.com/tenRabbits/extension-search-image-with-yandex) - Search for similar images in Yandex with open source code, without advertising and analytics.
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
@@ -300,6 +296,7 @@
 
 ## Kotlin 
 
+- [0r0loo/quick-log](https://github.com/0r0loo/quick-log) - Instant console.log generator for WebStorm. Just hit a shortcut and debug like a pro.
 - [onriv/lean4ij](https://github.com/onriv/lean4ij) - A Lean4 plugin for the Intellij Platform
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 - [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON / NDJSON files.
