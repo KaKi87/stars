@@ -91,7 +91,7 @@
 - [tosinonikute/NotelyVoice](https://github.com/tosinonikute/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 50+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens 
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
 - [Bleuzen/FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter) - Graphical audio convert and filter tool
-- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 - [EricInacio01/PlayIntegrityFix-NEXT](https://github.com/EricInacio01/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
@@ -215,6 +215,7 @@
 
 ## JavaScript 
 
+- [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
 - [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [FraserHamilton/dayjs-recur](https://github.com/FraserHamilton/dayjs-recur) - Day.js plugin for matching and generating recurring dates.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
