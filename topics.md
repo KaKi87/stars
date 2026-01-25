@@ -669,6 +669,7 @@
 
 ## javascript 
 
+- [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [CharlieDigital/typescript-is-like-csharp](https://github.com/CharlieDigital/typescript-is-like-csharp) - A set of docs helping TypeScript developers learn C# (or vice versa!)
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -865,6 +866,7 @@
 
 ## nodejs 
 
+- [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
