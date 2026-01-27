@@ -70,6 +70,7 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html5](#html5)
 - [http](#http)
 - [https](#https)
 - [icon-font](#icon-font)
@@ -626,6 +627,10 @@
 
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 
+## html5 
+
+- [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
+
 ## http 
 
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -669,6 +674,7 @@
 
 ## javascript 
 
+- [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [CharlieDigital/typescript-is-like-csharp](https://github.com/CharlieDigital/typescript-is-like-csharp) - A set of docs helping TypeScript developers learn C# (or vice versa!)
