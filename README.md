@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
 - [caddy-dns/ovh](https://github.com/caddy-dns/ovh) - Caddy module: dns.providers.ovh
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
@@ -466,7 +467,6 @@
 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [DanGLVK/NoStorageRestrict](https://github.com/DanGLVK/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
