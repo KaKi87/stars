@@ -920,6 +920,7 @@
 
 ## others 
 
+- [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [caddy-dns/ovh](https://github.com/caddy-dns/ovh) - Caddy module: dns.providers.ovh
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - An open-source remake of the short-lived jetbrains git client
 - [0r0loo/quick-log](https://github.com/0r0loo/quick-log) - Instant console.log generator for WebStorm. Just hit a shortcut and debug like a pro.
