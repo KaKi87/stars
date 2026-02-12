@@ -166,6 +166,7 @@
 
 ## HTML 
 
+- [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [RealCyGuy/trianglify-generator](https://github.com/RealCyGuy/trianglify-generator) - a free trianglify.js generator that requires no coding
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
