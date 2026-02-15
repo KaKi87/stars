@@ -504,6 +504,7 @@
 
 ## TypeScript 
 
+- [piellardj/totp-generator](https://github.com/piellardj/totp-generator) - This is an online tool to generate TOTP codes like an app such as Google Authenticator would do.
 - [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
 - [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
 - [kvandake/lexorank-ts](https://github.com/kvandake/lexorank-ts) - A reference implementation of a list ordering system like JIRA's Lexorank algorithm
