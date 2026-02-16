@@ -971,7 +971,7 @@
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [LSPosed/DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure) - 
 - [flathub/com.teamspeak.TeamSpeak](https://github.com/flathub/com.teamspeak.TeamSpeak) - 
-- [KarenTorosyan/jetbrains-ide-gnome-theme-plugin](https://github.com/KarenTorosyan/jetbrains-ide-gnome-theme-plugin) - 
+- [karntorn/jetbrains-ide-gnome-theme-plugin](https://github.com/karntorn/jetbrains-ide-gnome-theme-plugin) - 
 - [lzxgh/OneDarkDarker](https://github.com/lzxgh/OneDarkDarker) - One Dark Darker theme for JetBrains.
 - [alexcorvi/anchorme.js](https://github.com/alexcorvi/anchorme.js) - Tiny, fast, efficient, feature rich Javascript library to detect links / URLs / Emails in text and convert them to clickable HTML anchor links
 - [oslo-project/otp](https://github.com/oslo-project/otp) - One-time passwords with HOTP and TOTP
