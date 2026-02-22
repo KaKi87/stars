@@ -926,6 +926,7 @@
 
 ## others 
 
+- [R0rt1z2/GrindrPlus](https://github.com/R0rt1z2/GrindrPlus) - Xposed Module that unlocks and adds unique features to the Grindr app
 - [SchildiChat/schildi-revenge](https://github.com/SchildiChat/schildi-revenge) - Matrix client for desktop written in Kotlin and using the Matrix Rust SDK
 - [piellardj/totp-generator](https://github.com/piellardj/totp-generator) - This is an online tool to generate TOTP codes like an app such as Google Authenticator would do.
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
