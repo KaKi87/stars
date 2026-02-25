@@ -150,6 +150,8 @@
 
 ## Go 
 
+- [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that mitigates bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
+- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
@@ -295,6 +297,7 @@
 - [AlexandraKreidich/SwitchGithubAccounts](https://github.com/AlexandraKreidich/SwitchGithubAccounts) - Chrome extension
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
+- [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
 - [chabou/hyper-always-on-top](https://github.com/chabou/hyper-always-on-top) - Extension for Hyper.app to optionally keep window always on top
 - [binsarjr/search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs) - Search Engine Nodejs di buat dari hasil scraping dari beberap search engine yaitu, Aol, Ask, Baidu, Bing, Google dan Yahoo, search engine ini belum sempurna,tetapi jika ada yg ingin mengembangkannya s
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -511,6 +514,7 @@
 
 ## TypeScript 
 
+- [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [piellardj/totp-generator](https://github.com/piellardj/totp-generator) - This is an online tool to generate TOTP codes like an app such as Google Authenticator would do.
 - [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
@@ -578,7 +582,6 @@
 - [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [cspotcode/outdent](https://github.com/cspotcode/outdent) - Remove indentation from ES6 template strings
-- [sidorares/node-mysql2](https://github.com/sidorares/node-mysql2) - :zap: fast mysqljs/mysql compatible mysql driver for node.js
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
 
 ## Vala 
