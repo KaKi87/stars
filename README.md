@@ -213,7 +213,7 @@
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
-- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp) - Android Calculator
 - [ChrisCarini/git-push-reminder-jetbrains-plugin](https://github.com/ChrisCarini/git-push-reminder-jetbrains-plugin) - A plugin for JetBrains IDEs which detects and provides a friendly reminder when a project is closed and there are commits that have not yet been pushed.
 - [Valandur/Web-API](https://github.com/Valandur/Web-API) - RESTful web server for Minecraft Sponge including an admin panel
@@ -475,6 +475,7 @@
 
 ## Shell 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
