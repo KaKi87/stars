@@ -817,6 +817,7 @@
 
 ## macos 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
@@ -946,6 +947,8 @@
 
 ## others 
 
+- [maddada/menu-bar-splitter](https://github.com/maddada/menu-bar-splitter) - a mac utility for keeping your menu bar organized
+- [ecbambrick/StayCurrent](https://github.com/ecbambrick/StayCurrent) - Firefox Add-on to force a link to open in the current tab
 - [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG) - My version of Tabliss that I will be maintaining in the future. A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that mitigates bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
@@ -961,7 +964,6 @@
 - [obiscr/intellij-community](https://github.com/obiscr/intellij-community) - This project is a Git client based on IntelliJ Community and is still in development.
 - [balu8108/intellij-community-fork](https://github.com/balu8108/intellij-community-fork) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [Neelakurinji123/ThinkPad-x260-OpenCore](https://github.com/Neelakurinji123/ThinkPad-x260-OpenCore) - Bootloader configuration for macOS on x260 and possibly others 6th gen ThinkPads
-- [jwhamilton99/menu-bar-splitter](https://github.com/jwhamilton99/menu-bar-splitter) - a mac utility for keeping your menu bar organized
 - [felixblome/easy-ethernet-icon](https://github.com/felixblome/easy-ethernet-icon) - A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
 - [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
 - [docyx/imdb-table](https://github.com/docyx/imdb-table) - IMDb rating tables and watch times for TV shows.
@@ -1348,6 +1350,7 @@
 
 ## swift 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 100+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens
@@ -1358,6 +1361,7 @@
 
 ## swiftui 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
