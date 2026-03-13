@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [ecbambrick/StayCurrent](https://github.com/ecbambrick/StayCurrent) - Firefox Add-on to force a link to open in the current tab
 - [RyanMarcus/dirty-json](https://github.com/RyanMarcus/dirty-json) - A parser for invalid JSON
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
@@ -503,10 +504,11 @@
 
 ## Swift 
 
+- [maddada/menu-bar-splitter](https://github.com/maddada/menu-bar-splitter) - a mac utility for keeping your menu bar organized
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [jwhamilton99/menu-bar-splitter](https://github.com/jwhamilton99/menu-bar-splitter) - a mac utility for keeping your menu bar organized
 - [felixblome/easy-ethernet-icon](https://github.com/felixblome/easy-ethernet-icon) - A simple and lightweight macOS menu bar application that shows your Ethernet connection status at a glance.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
