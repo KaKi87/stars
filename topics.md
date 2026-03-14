@@ -947,6 +947,7 @@
 
 ## others 
 
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [maddada/menu-bar-splitter](https://github.com/maddada/menu-bar-splitter) - a mac utility for keeping your menu bar organized
 - [ecbambrick/StayCurrent](https://github.com/ecbambrick/StayCurrent) - Firefox Add-on to force a link to open in the current tab
 - [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG) - My version of Tabliss that I will be maintaining in the future. A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
