@@ -182,12 +182,13 @@
 
 ## android 
 
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 100+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
-- [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON / NDJSON files.
+- [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, contacts, and blocked numbers from and to JSON / NDJSON files.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -732,7 +733,7 @@
 - [RyanMarcus/dirty-json](https://github.com/RyanMarcus/dirty-json) - A parser for invalid JSON
 - [qiuquanwu/vue3-json-viewer](https://github.com/qiuquanwu/vue3-json-viewer) - Simple JSON viewer component, for Vue.js 3.x
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
-- [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON / NDJSON files.
+- [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, contacts, and blocked numbers from and to JSON / NDJSON files.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [nyavro/i18nPlugin](https://github.com/nyavro/i18nPlugin) - Intellij idea i18next support plugin
