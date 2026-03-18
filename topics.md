@@ -855,6 +855,7 @@
 
 ## material-design 
 
+- [Templarian/MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) - @mdi/font Dist for Material Design Icons.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
