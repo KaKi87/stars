@@ -171,6 +171,7 @@
 
 ## HTML 
 
+- [Templarian/MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) - @mdi/font Dist for Material Design Icons.
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [RealCyGuy/trianglify-generator](https://github.com/RealCyGuy/trianglify-generator) - a free trianglify.js generator that requires no coding
