@@ -225,6 +225,9 @@
 
 ## JavaScript 
 
+- [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
+- [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
+- [cuspymd/text-highlighter](https://github.com/cuspymd/text-highlighter) - A cross-browser extension that allows you to highlight and manage text on web pages. Supports Chrome, Firefox, and Firefox for Android.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [ecbambrick/StayCurrent](https://github.com/ecbambrick/StayCurrent) - Firefox Add-on to force a link to open in the current tab
 - [RyanMarcus/dirty-json](https://github.com/RyanMarcus/dirty-json) - A parser for invalid JSON
