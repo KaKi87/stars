@@ -290,6 +290,7 @@
 - [vladgba/Back2source](https://github.com/vladgba/Back2source) - Userscript for redirect to source sites from sites with machine translation, etc.
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
 - [theofficialgman/edex-ui](https://github.com/theofficialgman/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [liangwp/simple-mysql](https://github.com/liangwp/simple-mysql) - A wrapper for MySQL 8 X DevAPI, hoping to make session management easier
 - [hrvstr/scene-release](https://github.com/hrvstr/scene-release) - parse scene release names
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -434,7 +435,6 @@
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [dtrx-py/dtrx](https://github.com/dtrx-py/dtrx) - Do The Right Extraction
 - [dvershinin/green-recorder](https://github.com/dvershinin/green-recorder) - A simple screen recorder for Linux desktop. Supports Wayland & Xorg
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [BoldBrowser/bold-browser](https://github.com/BoldBrowser/bold-browser) - Core codebase for Bold Browser (build scripts will be in other repositories)
 - [hbenbel/French-Dictionary](https://github.com/hbenbel/French-Dictionary) - CSV files containing all french adjectives, adverbs, conjunctions, determiners, nouns, prepositions, pronouns, verbs and their gender, types and conjugations
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
