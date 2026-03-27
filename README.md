@@ -203,7 +203,7 @@
 - [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix) - A simple LSPosed module to bypass signature checks for apks installed from outside google play
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [LSPosed/DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure) - 
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
 - [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
@@ -521,6 +521,7 @@
 
 ## TypeScript 
 
+- [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
 - [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG) - My version of Tabliss that I will be maintaining in the future. A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
