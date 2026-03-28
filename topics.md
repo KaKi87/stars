@@ -1309,6 +1309,7 @@
 
 ## self-hosted 
 
+- [fbuchner/meerkat-crm](https://github.com/fbuchner/meerkat-crm) - CRM for the personal life
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
