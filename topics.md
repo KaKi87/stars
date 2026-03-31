@@ -963,6 +963,7 @@
 
 ## others 
 
+- [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 - [cuspymd/text-highlighter](https://github.com/cuspymd/text-highlighter) - A cross-browser extension that allows you to highlight and manage text on web pages. Supports Chrome, Firefox, and Firefox for Android.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [maddada/menu-bar-splitter](https://github.com/maddada/menu-bar-splitter) - a mac utility for keeping your menu bar organized
