@@ -225,6 +225,7 @@
 
 ## JavaScript 
 
+- [Adil512/save-image-as-type](https://github.com/Adil512/save-image-as-type) - Save Image As Type Into JPG, PNG, WebP Directly In Browser With our Save Image As Type experience the most advanced browser extension for instant image format conversion. Convert & Download images in 
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [cuspymd/text-highlighter](https://github.com/cuspymd/text-highlighter) - A cross-browser extension that allows you to highlight and manage text on web pages. Supports Chrome, Firefox, and Firefox for Android.
