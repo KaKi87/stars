@@ -963,6 +963,7 @@
 
 ## others 
 
+- [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [Adil512/save-image-as-type](https://github.com/Adil512/save-image-as-type) - Save Image As Type Into JPG, PNG, WebP Directly In Browser With our Save Image As Type experience the most advanced browser extension for instant image format conversion. Convert & Download images in 
 - [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 - [cuspymd/text-highlighter](https://github.com/cuspymd/text-highlighter) - A cross-browser extension that allows you to highlight and manage text on web pages. Supports Chrome, Firefox, and Firefox for Android.
