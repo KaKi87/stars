@@ -305,7 +305,7 @@
 - [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
-- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
 - [subdavis/Tusk](https://github.com/subdavis/Tusk) - 🐘 🔒 KeePass-compatible browser extension for filling passwords.
 - [besuper/TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
