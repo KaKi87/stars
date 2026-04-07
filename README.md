@@ -150,6 +150,7 @@
 
 ## Go 
 
+- [fbuchner/meerkat-crm](https://github.com/fbuchner/meerkat-crm) - CRM for the personal life
 - [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that mitigates bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -235,7 +236,7 @@
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
-- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+- [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 - [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [FraserHamilton/dayjs-recur](https://github.com/FraserHamilton/dayjs-recur) - Day.js plugin for matching and generating recurring dates.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
@@ -524,7 +525,6 @@
 ## TypeScript 
 
 - [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
-- [fbuchner/meerkat-crm](https://github.com/fbuchner/meerkat-crm) - CRM for the personal life
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
 - [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG) - My version of Tabliss that I will be maintaining in the future. A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
