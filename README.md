@@ -389,7 +389,6 @@
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [Xposed-Modules-Repo/ru.mike.updatelocker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker) - Update Locker: stop update your apps
 - [leohku/andure](https://github.com/leohku/andure) - DevTools for Android Chrome — works on any website, on any Chromium browser.
-- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [hueyy/awesome-mastodon](https://github.com/hueyy/awesome-mastodon) - Up-to-date and curated list of awesome Mastodon-related stuff!
 - [AmjadHD/sublime_one_theme](https://github.com/AmjadHD/sublime_one_theme) - 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡.
