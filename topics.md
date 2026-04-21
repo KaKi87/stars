@@ -1102,7 +1102,6 @@
 - [lucahammer/mastovue](https://github.com/lucahammer/mastovue) - 
 - [umonaca/mastodon-translate](https://github.com/umonaca/mastodon-translate) - Tampermonkey Script to add option to Translate Toots
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [DevP0tion/dndb](https://github.com/DevP0tion/dndb) - A Deno 🦕 persistent, embeddable and optimized NoSQL database for JS & TS
 - [pelogvc/tor-axios](https://github.com/pelogvc/tor-axios) - use axios through tor network
 - [Bubu/android-calculatorpp](https://github.com/Bubu/android-calculatorpp) - Android Calculator
 - [denysdovhan/one-gnome-terminal](https://github.com/denysdovhan/one-gnome-terminal) - Atom's One Dark and One Light theme for GNOME Terminal
