@@ -25,6 +25,7 @@
 - [JavaScript](#javascript)
 - [Just](#just)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -181,7 +182,6 @@
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [nicolas-cusan/destyle.css](https://github.com/nicolas-cusan/destyle.css) - Opinionated reset stylesheet that provides a clean slate for styling your html.
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
 - [lucahammer/mastovue](https://github.com/lucahammer/mastovue) - 
 - [realaravinth/libmedium](https://github.com/realaravinth/libmedium) - An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask
@@ -193,7 +193,7 @@
 
 ## Java 
 
-- [DetachHead/rebased](https://github.com/DetachHead/rebased) - An open-source remake of the short-lived jetbrains git client
+- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [obiscr/intellij-community](https://github.com/obiscr/intellij-community) - This project is a Git client based on IntelliJ Community and is still in development.
 - [balu8108/intellij-community-fork](https://github.com/balu8108/intellij-community-fork) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [AutismSuperman/git-commit-message-helper](https://github.com/AutismSuperman/git-commit-message-helper) - A JetBrains series plugin to help git code submission specifications, support IDEA, WebStorm, AndroidStudio, PyCharm, CLoin, GoLand, PhpStorm ...   https://plugins.jetbrains.com/plugin/13477-git-commi
@@ -349,6 +349,10 @@
 - [siosio/EmojiCommitLogViewer](https://github.com/siosio/EmojiCommitLogViewer) - 
 - [jkuester/unlauncher](https://github.com/jkuester/unlauncher) - Android minimalistic launcher
 - [patou/gitmoji-plus-commit-button](https://github.com/patou/gitmoji-plus-commit-button) - Intellij plugin for add a button on the commit dialog to add gitmoji
+
+## MDX 
+
+- [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
 
 ## Makefile 
 
@@ -525,6 +529,7 @@
 
 ## TypeScript 
 
+- [kunkunsh/kkrpc](https://github.com/kunkunsh/kkrpc) - A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
