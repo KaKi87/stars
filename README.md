@@ -318,6 +318,7 @@
 
 ## Kotlin 
 
+- [alexandr7035/SilentVideo](https://github.com/alexandr7035/SilentVideo) - An Android app to remove audio track from video
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [R0rt1z2/GrindrPlus](https://github.com/R0rt1z2/GrindrPlus) - Xposed Module that unlocks and adds unique features to the Grindr app
 - [SchildiChat/schildi-revenge](https://github.com/SchildiChat/schildi-revenge) - Matrix client for desktop written in Kotlin and using the Matrix Rust SDK
