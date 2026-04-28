@@ -79,7 +79,6 @@
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
 - [json](#json)
-- [koa](#koa)
 - [kotlin](#kotlin)
 - [laravel](#laravel)
 - [library](#library)
@@ -737,10 +736,6 @@
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [nyavro/i18nPlugin](https://github.com/nyavro/i18nPlugin) - Intellij idea i18next support plugin
-
-## koa 
-
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## kotlin 
 
