@@ -28,7 +28,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -363,10 +362,6 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
-## Nix 
-
-- [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font) - Monaco Nerd Font with bold, italic, and bold italic added.
-
 ## Others 
 
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
@@ -501,6 +496,7 @@
 - [casperklein/docker-tmux-builder](https://github.com/casperklein/docker-tmux-builder) - Builds a tmux debian package
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [Un1q32/pfetch](https://github.com/Un1q32/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
+- [thep0y/monaco-nerd-font](https://github.com/thep0y/monaco-nerd-font) - Monaco Nerd Font with bold, italic, and bold italic added.
 - [Kanola-Images/Kanola](https://github.com/Kanola-Images/Kanola) - An image for VanillaOS built around the KDE Plasma desktop environment.
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) - Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [ardevd/scrcpy-appimage](https://github.com/ardevd/scrcpy-appimage) - 
