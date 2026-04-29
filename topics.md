@@ -795,7 +795,7 @@
 ## llm 
 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
 ## localization 
@@ -810,7 +810,7 @@
 
 ## machine-learning 
 
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 
 ## macos 
 
@@ -1062,7 +1062,6 @@
 - [ardevd/scrcpy-appimage](https://github.com/ardevd/scrcpy-appimage) - 
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [3846masa/axios-cookiejar-support](https://github.com/3846masa/axios-cookiejar-support) - Add tough-cookie support to axios.
-- [nin0-dev/VendroidEnhanced](https://github.com/nin0-dev/VendroidEnhanced) - VendroidEnhanced is a fork of Vendroid, a custom client for Discord that loads the mobile website and injects Vencord, the cutest client mod.
 - [antroids/application-title-bar](https://github.com/antroids/application-title-bar) - KDE Plasma6 widget with window controls
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -1213,7 +1212,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [carrot69/keep-presence](https://github.com/carrot69/keep-presence) - Keeps your computer awake by moving the mouse or pressing a key when you step away.
@@ -1380,7 +1379,7 @@
 
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
