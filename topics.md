@@ -538,6 +538,7 @@
 
 ## git 
 
+- [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - A community-driven version of Gitea. Backup of &lt;https://codeberg.org/forgejo/forgejo&gt;
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
@@ -1296,6 +1297,7 @@
 
 ## self-hosted 
 
+- [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - A community-driven version of Gitea. Backup of &lt;https://codeberg.org/forgejo/forgejo&gt;
 - [fbuchner/meerkat-crm](https://github.com/fbuchner/meerkat-crm) - CRM for the personal life
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
