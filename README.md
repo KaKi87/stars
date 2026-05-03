@@ -456,6 +456,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [Lcstyle/clipboard-manager](https://github.com/Lcstyle/clipboard-manager) - Clipboard manager for COSMIC™
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
