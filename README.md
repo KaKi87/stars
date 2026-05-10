@@ -235,7 +235,7 @@
 - [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [FraserHamilton/dayjs-recur](https://github.com/FraserHamilton/dayjs-recur) - Day.js plugin for matching and generating recurring dates.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
-- [denschub/chrome-mask](https://github.com/denschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
+- [skyschub/chrome-mask](https://github.com/skyschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [thngkaiyuan/js-toggle](https://github.com/thngkaiyuan/js-toggle) - A Chrome extension to help you toggle the Javascript setting on any page with ease.
