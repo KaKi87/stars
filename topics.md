@@ -992,7 +992,7 @@
 - [FraserHamilton/dayjs-recur](https://github.com/FraserHamilton/dayjs-recur) - Day.js plugin for matching and generating recurring dates.
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
-- [denschub/chrome-mask](https://github.com/denschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
+- [skyschub/chrome-mask](https://github.com/skyschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
 - [Zren/plasma-applet-commandoutput](https://github.com/Zren/plasma-applet-commandoutput) - 
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
