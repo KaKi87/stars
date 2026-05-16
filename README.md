@@ -360,6 +360,7 @@
 
 ## Others 
 
+- [Anxarden/brave-debloater](https://github.com/Anxarden/brave-debloater) - Debloat Brave Browser by disabling AI, Rewards, Wallet, VPN, Telemetry, and other extras.
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [thisisisa/awesome-permacomputing](https://github.com/thisisisa/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
