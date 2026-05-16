@@ -963,6 +963,7 @@
 
 ## others 
 
+- [Anxarden/brave-debloater](https://github.com/Anxarden/brave-debloater) - Debloat Brave Browser by disabling AI, Rewards, Wallet, VPN, Telemetry, and other extras.
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [Adil512/save-image-as-type](https://github.com/Adil512/save-image-as-type) - Save Image As Type Into JPG, PNG, WebP Directly In Browser With our Save Image As Type experience the most advanced browser extension for instant image format conversion. Convert & Download images in 
