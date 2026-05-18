@@ -455,7 +455,7 @@
 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [Lcstyle/clipboard-manager](https://github.com/Lcstyle/clipboard-manager) - Clipboard manager for COSMIC™
-- [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
+- [hanshuaikang/NBping](https://github.com/hanshuaikang/NBping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [cofob/fastside](https://github.com/cofob/fastside) - A smart redirecting gateway for various frontend services.
@@ -524,6 +524,7 @@
 
 ## TypeScript 
 
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [kunkunsh/kkrpc](https://github.com/kunkunsh/kkrpc) - A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
