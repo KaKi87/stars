@@ -420,6 +420,7 @@
 
 ## developer-tools 
 
+- [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -544,6 +545,7 @@
 ## git 
 
 - [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - A community-driven version of Gitea. Backup of &lt;https://codeberg.org/forgejo/forgejo&gt;
+- [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
@@ -966,11 +968,11 @@
 
 ## others 
 
+- [zerotwo-alt/PlayIntegrityFix-NEXT](https://github.com/zerotwo-alt/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
 - [Anxarden/brave-debloater](https://github.com/Anxarden/brave-debloater) - Debloat Brave Browser by disabling AI, Rewards, Wallet, VPN, Telemetry, and other extras.
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [Adil512/save-image-as-type](https://github.com/Adil512/save-image-as-type) - Save Image As Type Into JPG, PNG, WebP Directly In Browser With our Save Image As Type experience the most advanced browser extension for instant image format conversion. Convert & Download images in 
-- [pol-rivero/github-desktop-plus](https://github.com/pol-rivero/github-desktop-plus) - A GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration.
 - [cuspymd/text-highlighter](https://github.com/cuspymd/text-highlighter) - A cross-browser extension that allows you to highlight and manage text on web pages. Supports Chrome, Firefox, and Firefox for Android.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [maddada/menu-bar-splitter](https://github.com/maddada/menu-bar-splitter) - a mac utility for keeping your menu bar organized
