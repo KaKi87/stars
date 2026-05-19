@@ -482,6 +482,7 @@
 
 ## Shell 
 
+- [zerotwo-alt/PlayIntegrityFix-NEXT](https://github.com/zerotwo-alt/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
