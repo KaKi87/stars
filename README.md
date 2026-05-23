@@ -268,7 +268,6 @@
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [jacobwhall/marktext](https://github.com/jacobwhall/marktext) - fork of marktext, seeking to modernize our favorite markdown editor
-- [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate) - Chrome extension to disable youtube video titles autotranslation
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
@@ -525,6 +524,8 @@
 
 ## TypeScript 
 
+- [prathercc/discrub](https://github.com/prathercc/discrub) - Discord data management as a browser extension and web app: export messages, search and filter, purge, browse offline data packages. Source-visible.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [kunkunsh/kkrpc](https://github.com/kunkunsh/kkrpc) - A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
