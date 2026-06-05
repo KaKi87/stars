@@ -902,6 +902,7 @@
 
 ## microsoft 
 
+- [fossteams/teams-token](https://github.com/fossteams/teams-token) - A super simple Electron app that will save your Microsoft Teams tokens
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [tropicaaal/fluent-svelte](https://github.com/tropicaaal/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
 
@@ -1102,7 +1103,7 @@
 - [verticalsync/Sunroof](https://github.com/verticalsync/Sunroof) - A fork of Vesktop
 - [KubeJS-Mods/KubeJS](https://github.com/KubeJS-Mods/KubeJS) - 
 - [sysblok/focalboard](https://github.com/sysblok/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme for zed.dev
+- [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme for Zed
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [DevGirl-Team/tamagokill](https://github.com/DevGirl-Team/tamagokill) - Tamagochi, mais version Mirror universe ; Le but n'est pas de le tenir en vie, mais de le tuer. Projet open-source avec la communauté sur Twitch. Pour fêter les 4k followers.
 - [kasecato/vscode-intellij-idea-keybindings](https://github.com/kasecato/vscode-intellij-idea-keybindings) - Port of IntelliJ IDEA key bindings for VS Code.
