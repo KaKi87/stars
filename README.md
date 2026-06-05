@@ -376,7 +376,7 @@
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [claudemods/BasiliskAppImage](https://github.com/claudemods/BasiliskAppImage) - It is What It Is
 - [wcxo/GitCracken](https://github.com/wcxo/GitCracken) - GitCracken
-- [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme for zed.dev
+- [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme for Zed
 - [Mte90/yad-static-build](https://github.com/Mte90/yad-static-build) - 
 - [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) - ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -524,6 +524,7 @@
 
 ## TypeScript 
 
+- [fossteams/teams-token](https://github.com/fossteams/teams-token) - A super simple Electron app that will save your Microsoft Teams tokens
 - [prathercc/discrub](https://github.com/prathercc/discrub) - Discord data management as a browser extension and web app: export messages, search and filter, purge, browse offline data packages. Source-visible.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
