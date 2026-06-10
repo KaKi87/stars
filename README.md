@@ -206,7 +206,6 @@
 - [verticalsync/Sundroid](https://github.com/verticalsync/Sundroid) - A fork of Vendroid
 - [Henry-ZHR/force_dark](https://github.com/Henry-ZHR/force_dark) - 
 - [KubeJS-Mods/KubeJS](https://github.com/KubeJS-Mods/KubeJS) - 
-- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
@@ -221,6 +220,7 @@
 
 ## JavaScript 
 
+- [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 - [Adil512/save-image-as-type](https://github.com/Adil512/save-image-as-type) - Save Image As Type Into JPG, PNG, WebP Directly In Browser With our Save Image As Type experience the most advanced browser extension for instant image format conversion. Convert & Download images in 
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
@@ -329,6 +329,7 @@
 - [jherkenhoff/qalculate-android](https://github.com/jherkenhoff/qalculate-android) - Powerful and versatile multi-purpose calculator for the Android platform
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
