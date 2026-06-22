@@ -232,7 +232,6 @@
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
-- [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [FraserHamilton/dayjs-recur](https://github.com/FraserHamilton/dayjs-recur) - Day.js plugin for matching and generating recurring dates.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
 - [skyschub/chrome-mask](https://github.com/skyschub/chrome-mask) - Makes Firefox wear a mask to look like Chrome.
@@ -543,6 +542,7 @@
 - [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
 - [mokronos/imdb-heatmap](https://github.com/mokronos/imdb-heatmap) - Website that shows heatmaps of ratings of tv show episodes.
 - [kvandake/lexorank-ts](https://github.com/kvandake/lexorank-ts) - A reference implementation of a list ordering system like JIRA's Lexorank algorithm
+- [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
