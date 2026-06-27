@@ -439,7 +439,7 @@
 ## developer-tools 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [DesktopPlus/desktop-plus](https://github.com/DesktopPlus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
+- [desktop-plus/desktop-plus](https://github.com/desktop-plus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -569,7 +569,7 @@
 
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - Mirror of &lt;https://codeberg.org/forgejo/forgejo&gt; | A community-driven version of Gitea.
-- [DesktopPlus/desktop-plus](https://github.com/DesktopPlus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
+- [desktop-plus/desktop-plus](https://github.com/desktop-plus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
@@ -1001,6 +1001,7 @@
 
 ## others 
 
+- [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
 - [evenfurther/hibp-check](https://github.com/evenfurther/hibp-check) - Have I been pwned
 - [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 - [artemevsevev/zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains) - JetBrains Themes for Zed Editor
@@ -1125,7 +1126,6 @@
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [aaronccasanova/aacc](https://github.com/aaronccasanova/aacc) - Casa for my packages, projects, and experiments
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
-- [KhoalaS/Infinity-For-Reddit](https://github.com/KhoalaS/Infinity-For-Reddit) - A Reddit client for Android
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
