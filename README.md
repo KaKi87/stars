@@ -125,7 +125,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## CoffeeScript 
 
@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 - [Adil512/save-image-as-type](https://github.com/Adil512/save-image-as-type) - Save Image As Type Into JPG, PNG, WebP Directly In Browser With our Save Image As Type experience the most advanced browser extension for instant image format conversion. Convert & Download images in 
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
@@ -414,6 +415,7 @@
 
 ## Python 
 
+- [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -456,6 +458,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
 - [evenfurther/hibp-check](https://github.com/evenfurther/hibp-check) - Have I been pwned
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
