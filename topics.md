@@ -330,6 +330,7 @@
 
 ## cli 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [nikolaydubina/calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - 📅 Calendar heatmap inspired by GitHub contribution activity
@@ -347,7 +348,7 @@
 
 ## clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## cms 
 
@@ -360,6 +361,7 @@
 
 ## command-line 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -380,6 +382,7 @@
 
 ## cpp 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
@@ -423,6 +426,7 @@
 
 ## deno 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule) - A zero-dependency cron parser and scheduler for Node.js, Deno, Bun and the browser.
@@ -433,7 +437,7 @@
 - [simple-icons/simple-icons-font](https://github.com/simple-icons/simple-icons-font) - SVG icon font for popular brands
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 
 ## developer-tools 
@@ -726,6 +730,7 @@
 
 ## javascript 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [RyanMarcus/dirty-json](https://github.com/RyanMarcus/dirty-json) - A parser for invalid JSON
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
@@ -801,10 +806,12 @@
 
 ## library 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 
 ## linux 
 
+- [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -952,12 +959,14 @@
 
 ## node 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
 ## nodejs 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -1262,6 +1271,7 @@
 
 ## python 
 
+- [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
@@ -1320,6 +1330,7 @@
 
 ## rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
@@ -1437,6 +1448,7 @@
 
 ## terminal 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
@@ -1505,7 +1517,7 @@
 
 - [nimsandu/spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) - Spicetify theme inspired by Microsoft's Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Listening to Your Favorite Beats
 - [tropicaaal/fluent-svelte](https://github.com/tropicaaal/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 
 ## userscript 
