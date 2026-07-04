@@ -207,7 +207,7 @@
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
 - [verticalsync/Sundroid](https://github.com/verticalsync/Sundroid) - A fork of Vendroid
 - [Henry-ZHR/force_dark](https://github.com/Henry-ZHR/force_dark) - 
-- [KubeJS-Mods/KubeJS](https://github.com/KubeJS-Mods/KubeJS) - 
+- [kube-mods/kubejs](https://github.com/kube-mods/kubejs) - 
 - [anthonyraymond/joal](https://github.com/anthonyraymond/joal) - An open source command line RatioMaster with an optional WebUI.
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
