@@ -458,6 +458,7 @@
 
 ## Rust 
 
+- [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
 - [evenfurther/hibp-check](https://github.com/evenfurther/hibp-check) - Have I been pwned
