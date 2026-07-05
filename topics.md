@@ -1017,6 +1017,7 @@
 
 ## others 
 
+- [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
 - [evenfurther/hibp-check](https://github.com/evenfurther/hibp-check) - Have I been pwned
 - [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
