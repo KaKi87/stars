@@ -173,6 +173,7 @@
 
 ## HTML 
 
+- [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [Templarian/MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) - @mdi/font Dist for Material Design Icons.
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
@@ -312,6 +313,7 @@
 
 ## Kotlin 
 
+- [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection.
 - [MikelCalvo/Android-Battery-Alarm](https://github.com/MikelCalvo/Android-Battery-Alarm) - Simple Android Battery Alarm made with GPT4
 - [alexandr7035/SilentVideo](https://github.com/alexandr7035/SilentVideo) - An Android app to remove audio track from video
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -491,7 +493,6 @@
 
 ## Shell 
 
-- [zerotwo-alt/PlayIntegrityFix-NEXT](https://github.com/zerotwo-alt/PlayIntegrityFix-NEXT) - PIF Fork. This module provides experimental implementations to ensure valid attestation under the new PlayIntegrity rules.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
