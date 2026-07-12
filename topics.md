@@ -1025,6 +1025,7 @@
 
 ## others 
 
+- [bartlomieju/denidian](https://github.com/bartlomieju/denidian) - A tiny Obsidian-style note app built on the deno desktop subcommand: Markdown notes, [[wikilink]] crosslinking, and a force-directed graph view.
 - [off-grid-ai/off-grid-ai-mobile](https://github.com/off-grid-ai/off-grid-ai-mobile) - The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-
 - [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
@@ -1188,7 +1189,6 @@
 - [germanfr/cinnamon-transparent-panels](https://github.com/germanfr/cinnamon-transparent-panels) - Make your panels transparent when no windows are maximized
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [atulitanand/fluent-terminal-theme-generator](https://github.com/atulitanand/fluent-terminal-theme-generator) - 
-- [jarek-foksa/xel](https://github.com/jarek-foksa/xel) - Xel - Widget toolkit for building native-like Electron and Web apps
 - [ndjson/ndjson-spec](https://github.com/ndjson/ndjson-spec) - Specification
 - [Jieiku/theme-dark-arc-gitea](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast for Gitea, based on arc-green.
 - [nicole-ashley/json-formatter](https://github.com/nicole-ashley/json-formatter) - Makes JSON/JSONP easy to read.
