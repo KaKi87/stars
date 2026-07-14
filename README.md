@@ -62,6 +62,7 @@
 
 ## C 
 
+- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
