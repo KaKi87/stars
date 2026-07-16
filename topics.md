@@ -595,6 +595,7 @@
 
 ## github 
 
+- [desktop-plus/desktop-plus](https://github.com/desktop-plus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [oprypin/nightly.link](https://github.com/oprypin/nightly.link) - Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
@@ -1027,7 +1028,7 @@
 
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [bartlomieju/denidian](https://github.com/bartlomieju/denidian) - A tiny Obsidian-style note app built on the deno desktop subcommand: Markdown notes, [[wikilink]] crosslinking, and a force-directed graph view.
-- [off-grid-ai/off-grid-ai-mobile](https://github.com/off-grid-ai/off-grid-ai-mobile) - The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-
+- [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-
 - [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
