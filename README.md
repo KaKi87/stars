@@ -418,6 +418,7 @@
 
 ## Python 
 
+- [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
 - [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
@@ -536,6 +537,7 @@
 
 ## TypeScript 
 
+- [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
 - [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-
 - [fossteams/teams-token](https://github.com/fossteams/teams-token) - A super simple Electron app that will save your Microsoft Teams tokens
 - [prathercc/discrub](https://github.com/prathercc/discrub) - Discord data management as a browser extension and web app: export messages, search and filter, purge, browse offline data packages. Source-visible.
