@@ -1026,6 +1026,8 @@
 
 ## others 
 
+- [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
+- [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [bartlomieju/denidian](https://github.com/bartlomieju/denidian) - A tiny Obsidian-style note app built on the deno desktop subcommand: Markdown notes, [[wikilink]] crosslinking, and a force-directed graph view.
 - [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) - The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-
