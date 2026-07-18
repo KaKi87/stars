@@ -108,6 +108,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [osint](#osint)
@@ -1002,6 +1003,10 @@
 ## objective-c 
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+
+## obsidian 
+
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 
 ## open-source 
 
