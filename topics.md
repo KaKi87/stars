@@ -217,7 +217,6 @@
 - [Henry-ZHR/force_dark](https://github.com/Henry-ZHR/force_dark) - 
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
-- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -472,13 +471,13 @@
 
 ## discord 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [prathercc/discrub](https://github.com/prathercc/discrub) - Discord data management as a browser extension and web app: export messages, search and filter, purge, browse offline data packages. Source-visible.
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 - [refact0r/midnight-discord](https://github.com/refact0r/midnight-discord) - a dark, customizable discord theme.
 - [ricewind012/discord-gnome-theme](https://github.com/ricewind012/discord-gnome-theme) - 
 - [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord) - Windows 11 Fluent Discord theme.
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
@@ -513,6 +512,7 @@
 
 ## electron 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
@@ -782,7 +782,6 @@
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [Aliucord/Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
 - [jherkenhoff/qalculate-android](https://github.com/jherkenhoff/qalculate-android) - Powerful and versatile multi-purpose calculator for the Android platform
-- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 
 ## json 
 
@@ -805,7 +804,6 @@
 - [Aliucord/Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-- [MateriiApps/OpenCord](https://github.com/MateriiApps/OpenCord) - An open-source Material You implementation of the Discord Android app
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
@@ -983,6 +981,7 @@
 
 ## nodejs 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
@@ -1031,6 +1030,7 @@
 
 ## others 
 
+- [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
