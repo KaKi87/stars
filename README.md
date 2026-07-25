@@ -518,7 +518,6 @@
 
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [docyx/imdb-table](https://github.com/docyx/imdb-table) - IMDb rating tables and watch times for TV shows.
-- [asimons04/tesseract](https://github.com/asimons04/tesseract) - 
 - [tropicaaal/fluent-svelte](https://github.com/tropicaaal/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
 
