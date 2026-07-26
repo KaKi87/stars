@@ -341,6 +341,7 @@
 
 ## cli 
 
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -431,6 +432,7 @@
 
 ## database 
 
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [seald/nedb](https://github.com/seald/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
@@ -610,6 +612,7 @@
 
 ## go 
 
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
@@ -1253,6 +1256,8 @@
 
 ## postgresql 
 
+- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 
 ## powershell 
@@ -1357,6 +1362,7 @@
 
 ## rust 
 
+- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -1475,6 +1481,7 @@
 
 ## terminal 
 
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
@@ -1495,6 +1502,8 @@
 
 ## tui 
 
+- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
