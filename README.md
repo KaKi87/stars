@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - Mirror of &lt;https://codeberg.org/forgejo/forgejo&gt; | A community-driven version of Gitea.
 - [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that mitigates bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
@@ -461,6 +462,7 @@
 
 ## Rust 
 
+- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql
 - [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
