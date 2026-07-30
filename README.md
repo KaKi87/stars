@@ -203,7 +203,6 @@
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix) - A simple LSPosed module to bypass signature checks for apks installed from outside google play
 - [LSPosed/DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure) - 
-- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [Xposed-Modules-Repo/com.github.dan.nostoragerestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict) - NoStorageRestrict
 - [devlinx9/muon-ssh](https://github.com/devlinx9/muon-ssh) - Graphical SFTP client and terminal emulator (SSH) with helpful utilities
 - [TheDcoder/JustPlayer](https://github.com/TheDcoder/JustPlayer) - JustPlayer with UI that can be dismissed/hidden by pressing the back button. Download APKs from the releases page.
@@ -303,7 +302,7 @@
 - [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 - [chabou/hyper-always-on-top](https://github.com/chabou/hyper-always-on-top) - Extension for Hyper.app to optionally keep window always on top
 - [binsarjr/search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs) - Search Engine Nodejs di buat dari hasil scraping dari beberap search engine yaitu, Aol, Ask, Baidu, Bing, Google dan Yahoo, search engine ini belum sempurna,tetapi jika ada yg ingin mengembangkannya s
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [hilongjw/vue-dragging](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue
 - [busybox11/NowPlaying-for-Spotify](https://github.com/busybox11/NowPlaying-for-Spotify) - A Spotify Connect visualizer
 
@@ -331,6 +330,7 @@
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
 - [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
+- [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 - [Aliucord/Manager](https://github.com/Aliucord/Manager) - The new way to install Aliucord – in a user-friendly way
 - [jherkenhoff/qalculate-android](https://github.com/jherkenhoff/qalculate-android) - Powerful and versatile multi-purpose calculator for the Android platform
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
