@@ -356,7 +356,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 
 ## clojure 
 
@@ -684,6 +684,7 @@
 - [warmuuh/milkman](https://github.com/warmuuh/milkman) - An Extensible Request/Response Workbench
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [patou/gitmoji-plus-commit-button](https://github.com/patou/gitmoji-plus-commit-button) - Intellij plugin for add a button on the commit dialog to add gitmoji
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 
 ## haskell 
@@ -776,7 +777,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [Claxtastic/just-refresh](https://github.com/Claxtastic/just-refresh) - A simple auto-refresh extension for Google Chrome
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 
 ## jetpack-compose 
 
@@ -996,7 +997,7 @@
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [spacebarchat/martian](https://github.com/spacebarchat/martian) - A NodeJS Fosscord library
 - [binsarjr/search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs) - Search Engine Nodejs di buat dari hasil scraping dari beberap search engine yaitu, Aol, Ask, Baidu, Bing, Google dan Yahoo, search engine ini belum sempurna,tetapi jika ada yg ingin mengembangkannya s
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 
 ## npm 
 
