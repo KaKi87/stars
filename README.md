@@ -154,7 +154,7 @@
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - Mirror of &lt;https://codeberg.org/forgejo/forgejo&gt; | A community-driven version of Gitea.
-- [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that mitigates bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
+- [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that helps reduce automated bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
