@@ -310,6 +310,7 @@
 
 ## Kotlin 
 
+- [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
 - [sfsakhawat999/mpvRex](https://github.com/sfsakhawat999/mpvRex) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [jegly/Box](https://github.com/jegly/Box) - The most advanced, fully offline client-side AI suite on Android today.
 - [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection. + GPU Accel
