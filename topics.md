@@ -1030,6 +1030,7 @@
 
 ## others 
 
+- [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
 - [sfsakhawat999/mpvRex](https://github.com/sfsakhawat999/mpvRex) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
