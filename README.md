@@ -430,7 +430,6 @@
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
 - [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
-- [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [lzxgh/OneDarkDarker](https://github.com/lzxgh/OneDarkDarker) - One Dark Darker theme for JetBrains.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
@@ -439,7 +438,7 @@
 - [Jeffser/Alpaca](https://github.com/Jeffser/Alpaca) - 🦙 Local and online AI hub
 - [l0drex/Intellij-KDE-Breeze-Theme](https://github.com/l0drex/Intellij-KDE-Breeze-Theme) - A theme 🎨 for IntelliJ IDEs based on the KDE Breeze Theme. Includes light ☀️ and dark 🌒 variants.
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [carrot69/keep-presence](https://github.com/carrot69/keep-presence) - Keeps your computer awake by moving the mouse or pressing a key when you step away.
 - [Der-Henning/tgtg](https://github.com/Der-Henning/tgtg) - Scanner for Too Good To Go Notifications
 - [theRealCarneiro/pulsemeeter](https://github.com/theRealCarneiro/pulsemeeter) - A pulseaudio and pipewire audio mixer inspired by voicemeeter
