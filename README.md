@@ -521,7 +521,6 @@
 
 ## Svelte 
 
-- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [docyx/imdb-table](https://github.com/docyx/imdb-table) - IMDb rating tables and watch times for TV shows.
 - [tropicaaal/fluent-svelte](https://github.com/tropicaaal/fluent-svelte) - A faithful implementation of Microsoft's Fluent Design System in Svelte.
 - [locale-switcher/locale-switcher](https://github.com/locale-switcher/locale-switcher) - Browser Extension to quickly change your browser locale.
@@ -550,6 +549,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [kunkunsh/kkrpc](https://github.com/kunkunsh/kkrpc) - A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [desktop-plus/desktop-plus](https://github.com/desktop-plus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
