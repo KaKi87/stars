@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -26,6 +27,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cms](#cms)
@@ -185,6 +187,10 @@
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 
+## ai-agents 
+
+- [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
+
 ## analytics 
 
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
@@ -339,6 +345,10 @@
 ## claude 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+
+## claude-code 
+
+- [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 
 ## cli 
 
@@ -1051,7 +1061,6 @@
 - [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
 - [evenfurther/hibp-check](https://github.com/evenfurther/hibp-check) - Have I been pwned
-- [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 - [artemevsevev/zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains) - JetBrains Themes for Zed Editor
 - [Anxarden/brave-debloater](https://github.com/Anxarden/brave-debloater) - Debloat Brave Browser by disabling AI, Rewards, Wallet, VPN, Telemetry, and other extras.
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
