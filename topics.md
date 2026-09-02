@@ -973,6 +973,7 @@
 
 ## mysql 
 
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1284,7 +1285,7 @@
 
 ## postgresql 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL and SQLite TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql or sqlite3
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 
@@ -1393,7 +1394,6 @@
 ## rust 
 
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
-- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL and SQLite TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql or sqlite3
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -1474,6 +1474,7 @@
 
 ## sqlite 
 
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -1539,7 +1540,7 @@
 
 ## tui 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL and SQLite TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql or sqlite3
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
