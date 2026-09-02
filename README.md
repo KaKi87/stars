@@ -463,7 +463,7 @@
 ## Rust 
 
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
-- [riii111/sabiql](https://github.com/riii111/sabiql) - A fast PostgreSQL and SQLite TUI written in Rust. driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql or sqlite3
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
