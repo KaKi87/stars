@@ -313,7 +313,7 @@
 ## Kotlin 
 
 - [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
-- [sfsakhawat999/mpvRex](https://github.com/sfsakhawat999/mpvRex) - A modern Android video player powered by libmpv, built with Jetpack Compose.
+- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [jegly/Box](https://github.com/jegly/Box) - The most advanced, fully offline client-side AI suite on Android today.
 - [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection. + GPU Accel
 - [MikelCalvo/Android-Battery-Alarm](https://github.com/MikelCalvo/Android-Battery-Alarm) - Simple Android Battery Alarm made with GPT4
@@ -463,7 +463,7 @@
 ## Rust 
 
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [mkbula/disktui](https://github.com/mkbula/disktui) - TUI for disk management on Linux
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
