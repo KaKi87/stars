@@ -974,7 +974,7 @@
 
 ## mysql 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1058,7 +1058,7 @@
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [pkgforge-dev/kdeconnect-AppImage](https://github.com/pkgforge-dev/kdeconnect-AppImage) - Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama]
 - [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
-- [sfsakhawat999/mpvRex](https://github.com/sfsakhawat999/mpvRex) - A modern Android video player powered by libmpv, built with Jetpack Compose.
+- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
@@ -1286,7 +1286,7 @@
 
 ## postgresql 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 
@@ -1475,7 +1475,7 @@
 
 ## sqlite 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -1541,7 +1541,7 @@
 
 ## tui 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, driverless, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
