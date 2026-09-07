@@ -974,7 +974,7 @@
 
 ## mysql 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1286,7 +1286,7 @@
 
 ## postgresql 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 
@@ -1475,7 +1475,7 @@
 
 ## sqlite 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [zombiezen/go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -1541,7 +1541,7 @@
 
 ## tui 
 
-- [riii111/sabiql](https://github.com/riii111/sabiql) - See the database, not the interface. A fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
+- [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
