@@ -349,6 +349,7 @@
 
 ## claude-code 
 
+- [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 
 ## cli 
@@ -844,6 +845,7 @@
 
 ## linux 
 
+- [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [ekimiateam/libertix](https://github.com/ekimiateam/libertix) - Libertix installs linux in few clicks on your computer
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [jegly/Box](https://github.com/jegly/Box) - The most advanced, fully offline client-side AI suite on Android today.
@@ -899,7 +901,7 @@
 ## macos 
 
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
@@ -1394,6 +1396,7 @@
 
 ## rust 
 
+- [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sts10/medic](https://github.com/sts10/medic) - Check the "health" of passwords in a KeePass database
@@ -1493,7 +1496,7 @@
 
 ## swift 
 
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 100+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens
@@ -1504,7 +1507,7 @@
 
 ## swiftui 
 
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
