@@ -1057,6 +1057,7 @@
 
 ## others 
 
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [pkgforge-dev/kdeconnect-AppImage](https://github.com/pkgforge-dev/kdeconnect-AppImage) - Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama]
 - [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
