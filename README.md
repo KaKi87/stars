@@ -418,6 +418,7 @@
 
 ## Python 
 
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [ekimiateam/libertix](https://github.com/ekimiateam/libertix) - Libertix installs linux in few clicks on your computer
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
 - [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
