@@ -463,6 +463,7 @@
 
 ## Rust 
 
+- [cosmic-nightlight/cosmic-nightlight](https://github.com/cosmic-nightlight/cosmic-nightlight) - Night-light / gamma utility for the COSMIC desktop (Pop!_OS), via DRM/KMS + polkit helper
 - [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
