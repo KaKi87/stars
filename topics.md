@@ -1056,6 +1056,7 @@
 
 ## others 
 
+- [Julmik647/mobile-web-browsers](https://github.com/Julmik647/mobile-web-browsers) - [Work in progress] List of mobile web browsers inspired by nerdyslacker's list of desktop web browsers
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [pkgforge-dev/kdeconnect-AppImage](https://github.com/pkgforge-dev/kdeconnect-AppImage) - Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama]
