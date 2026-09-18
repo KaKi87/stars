@@ -530,6 +530,7 @@
 
 ## Swift 
 
+- [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [maddada/menu-bar-splitter](https://github.com/maddada/menu-bar-splitter) - a mac utility for keeping your menu bar organized
