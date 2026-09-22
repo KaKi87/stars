@@ -79,6 +79,7 @@
 - [http](#http)
 - [https](#https)
 - [icon-font](#icon-font)
+- [image-processing](#image-processing)
 - [instagram](#instagram)
 - [ios](#ios)
 - [ipfs](#ipfs)
@@ -351,6 +352,7 @@
 
 ## cli 
 
+- [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
@@ -733,6 +735,10 @@
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
+
+## image-processing 
+
+- [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
 
 ## instagram 
 
@@ -1632,6 +1638,7 @@
 
 ## web 
 
+- [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
