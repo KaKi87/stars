@@ -299,7 +299,7 @@
 - [Claxtastic/just-refresh](https://github.com/Claxtastic/just-refresh) - A simple auto-refresh extension for Google Chrome
 - [AlexandraKreidich/SwitchGithubAccounts](https://github.com/AlexandraKreidich/SwitchGithubAccounts) - Chrome extension
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-- [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
+- [arturmizz/vuent](https://github.com/arturmizz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 - [chabou/hyper-always-on-top](https://github.com/chabou/hyper-always-on-top) - Extension for Hyper.app to optionally keep window always on top
 - [binsarjr/search-engine-nodejs](https://github.com/binsarjr/search-engine-nodejs) - Search Engine Nodejs di buat dari hasil scraping dari beberap search engine yaitu, Aol, Ask, Baidu, Bing, Google dan Yahoo, search engine ini belum sempurna,tetapi jika ada yg ingin mengembangkannya s
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
