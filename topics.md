@@ -591,7 +591,7 @@
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [crcn/sift.js](https://github.com/crcn/sift.js) - Use Mongodb queries in JavaScript
-- [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
+- [arturmizz/vuent](https://github.com/arturmizz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 
 ## gaming 
 
@@ -842,7 +842,7 @@
 ## library 
 
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
-- [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
+- [arturmizz/vuent](https://github.com/arturmizz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 
 ## linux 
 
@@ -1625,7 +1625,7 @@
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
-- [arturmiz/vuent](https://github.com/arturmiz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
+- [arturmizz/vuent](https://github.com/arturmizz/vuent) - 🎨 Vue.js components implementing Microsoft Fluent Design
 - [hilongjw/vue-dragging](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue
 
 ## vuejs 
