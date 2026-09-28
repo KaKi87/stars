@@ -94,7 +94,6 @@
 - [llm](#llm)
 - [localization](#localization)
 - [mac](#mac)
-- [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
@@ -308,6 +307,7 @@
 ## chatbot 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 
 ## chatgpt 
 
@@ -896,10 +896,6 @@
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 
-## machine-learning 
-
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
-
 ## macos 
 
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
@@ -951,6 +947,7 @@
 ## mcp 
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 
 ## microsoft 
 
@@ -1052,6 +1049,7 @@
 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 
 ## osint 
 
@@ -1550,6 +1548,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
 - [paulrobello/parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
