@@ -425,6 +425,7 @@
 - [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [yousseb/meld](https://github.com/yousseb/meld) - Meld for macOS
+- [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [Zren/plasma-applet-commandoutput](https://github.com/Zren/plasma-applet-commandoutput) - 
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
@@ -503,7 +504,6 @@
 
 - [pkgforge-dev/kdeconnect-AppImage](https://github.com/pkgforge-dev/kdeconnect-AppImage) - Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama]
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
-- [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [DanGLVK/NoStorageRestrict](https://github.com/DanGLVK/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
