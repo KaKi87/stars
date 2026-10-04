@@ -369,7 +369,7 @@
 - [artemevsevev/zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains) - JetBrains Themes for Zed Editor
 - [Anxarden/brave-debloater](https://github.com/Anxarden/brave-debloater) - Debloat Brave Browser by disabling AI, Rewards, Wallet, VPN, Telemetry, and other extras.
 - [musabcel/android_rom_list](https://github.com/musabcel/android_rom_list) - List of all Android ROMs
-- [thisisisa/awesome-permacomputing](https://github.com/thisisisa/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
+- [iborduchi/awesome-permacomputing](https://github.com/iborduchi/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [macchrome/droidchrome](https://github.com/macchrome/droidchrome) - 
 - [AdguardTeam/AdGuardCLI](https://github.com/AdguardTeam/AdGuardCLI) - AdGuard Ad Blocker command-line version
