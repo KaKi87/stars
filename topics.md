@@ -882,6 +882,7 @@
 
 ## llm 
 
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection. + GPU Accel
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
