@@ -175,6 +175,7 @@
 
 ## HTML 
 
+- [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [Templarian/MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) - @mdi/font Dist for Material Design Icons.
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
