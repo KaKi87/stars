@@ -197,6 +197,7 @@
 
 ## android 
 
+- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [jegly/Box](https://github.com/jegly/Box) - The most advanced, fully offline client-side AI suite on Android today.
 - [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection. + GPU Accel
 - [MikelCalvo/Android-Battery-Alarm](https://github.com/MikelCalvo/Android-Battery-Alarm) - Simple Android Battery Alarm made with GPT4
@@ -1038,6 +1039,7 @@
 ## open-source 
 
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
+- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
 - [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) - Beautiful Open-Source Form Builder
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
@@ -1059,12 +1061,12 @@
 
 ## others 
 
+- [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [Julmik647/mobile-web-browsers](https://github.com/Julmik647/mobile-web-browsers) - [Work in progress] List of mobile web browsers inspired by nerdyslacker's list of desktop web browsers
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [pkgforge-dev/kdeconnect-AppImage](https://github.com/pkgforge-dev/kdeconnect-AppImage) - Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama]
 - [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
-- [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
