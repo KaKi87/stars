@@ -202,7 +202,7 @@
 - [MikelCalvo/Android-Battery-Alarm](https://github.com/MikelCalvo/Android-Battery-Alarm) - Simple Android Battery Alarm made with GPT4
 - [alexandr7035/SilentVideo](https://github.com/alexandr7035/SilentVideo) - An Android app to remove audio track from video
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [Notely-Voice/NotelyVoice](https://github.com/Notely-Voice/NotelyVoice) - A 100% private AI voice transcription app that converts speech to text in 100+ languages. Built with Compose Multiplatform for Android & iOS using Whisper AI - no cloud uploads, all processing happens
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
@@ -262,14 +262,14 @@
 
 ## awesome 
 
-- [iborduchi/awesome-permacomputing](https://github.com/iborduchi/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
+- [isamorph/awesome-permacomputing](https://github.com/isamorph/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [hueyy/awesome-mastodon](https://github.com/hueyy/awesome-mastodon) - Up-to-date and curated list of awesome Mastodon-related stuff!
 
 ## awesome-list 
 
-- [iborduchi/awesome-permacomputing](https://github.com/iborduchi/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
+- [isamorph/awesome-permacomputing](https://github.com/isamorph/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
@@ -317,7 +317,7 @@
 
 ## chrome 
 
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
@@ -327,7 +327,7 @@
 
 - [kunkunsh/kkrpc](https://github.com/kunkunsh/kkrpc) - A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)
 - [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
 - [mtimkovich/picmo-chrome](https://github.com/mtimkovich/picmo-chrome) - A Chrome emoji picker built off of PicMo.
@@ -343,11 +343,13 @@
 
 ## claude 
 
+- [glacierphonk/naming](https://github.com/glacierphonk/naming) - Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 
 ## claude-code 
 
+- [glacierphonk/naming](https://github.com/glacierphonk/naming) - Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.
 - [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [astx-jp/vscode-pptx-viewer](https://github.com/astx-jp/vscode-pptx-viewer) - VSCode PPTX Viewer Extension
 
@@ -561,7 +563,7 @@
 
 ## firefox 
 
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -924,6 +926,7 @@
 
 ## markdown 
 
+- [glacierphonk/naming](https://github.com/glacierphonk/naming) - Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -1038,9 +1041,10 @@
 
 ## open-source 
 
+- [glacierphonk/naming](https://github.com/glacierphonk/naming) - Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
 - [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [OpnForm/OpnForm](https://github.com/OpnForm/OpnForm) - Beautiful Open-Source Form Builder
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -1307,7 +1311,7 @@
 ## privacy 
 
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [cofob/fastside](https://github.com/cofob/fastside) - A smart redirecting gateway for various frontend services.
 - [duyfken/alternative-front-ends](https://github.com/duyfken/alternative-front-ends) - Privacy-respecting front-ends for popular platforms (e.g. YouTube, Reddit, Twitter, etc.)
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -1563,7 +1567,7 @@
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
-- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases.
+- [Lanshuns/Qwacky](https://github.com/Lanshuns/Qwacky) - A home for your DuckDuckGo @duck.com addresses. Generate, organise and send from them in Chrome and Firefox. Open source, no tracking.
 - [warpdesign/react-explorer](https://github.com/warpdesign/react-explorer) - Cross-platform file manager written in TypeScript
 - [kvandake/lexorank-ts](https://github.com/kvandake/lexorank-ts) - A reference implementation of a list ordering system like JIRA's Lexorank algorithm
 - [owenthereal/jq-wasm](https://github.com/owenthereal/jq-wasm) - A WebAssembly-powered jq JSON processor for Node.js and browsers, with no native dependencies.
