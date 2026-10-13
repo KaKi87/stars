@@ -1184,7 +1184,7 @@
 - [verticalsync/Sunroof](https://github.com/verticalsync/Sunroof) - A fork of Vesktop
 - [kube-mods/kubejs](https://github.com/kube-mods/kubejs) - 
 - [sysblok/focalboard](https://github.com/sysblok/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme for Zed
+- [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme extension for the Zed code editor
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [DevGirl-Team/tamagokill](https://github.com/DevGirl-Team/tamagokill) - Tamagochi, mais version Mirror universe ; Le but n'est pas de le tenir en vie, mais de le tuer. Projet open-source avec la communauté sur Twitch. Pour fêter les 4k followers.
 - [kasecato/vscode-intellij-idea-keybindings](https://github.com/kasecato/vscode-intellij-idea-keybindings) - Port of IntelliJ IDEA key bindings for VS Code.
