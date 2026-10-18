@@ -196,6 +196,7 @@
 
 ## android 
 
+- [neoblackxt/AnyWebView](https://github.com/neoblackxt/AnyWebView) - Any WebView is OK!
 - [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
 - [jegly/Box](https://github.com/jegly/Box) - The most advanced, fully offline client-side AI suite on Android today.
 - [jegly/OfflineLLM](https://github.com/jegly/OfflineLLM) - Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection. + GPU Accel
