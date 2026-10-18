@@ -193,6 +193,7 @@
 
 ## Java 
 
+- [neoblackxt/AnyWebView](https://github.com/neoblackxt/AnyWebView) - Any WebView is OK!
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [obiscr/intellij-community](https://github.com/obiscr/intellij-community) - This project is a Git client based on IntelliJ Community and is still in development.
