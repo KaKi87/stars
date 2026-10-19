@@ -1067,6 +1067,7 @@
 
 ## others 
 
+- [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - macos下的类winfile管理功能
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [Julmik647/mobile-web-browsers](https://github.com/Julmik647/mobile-web-browsers) - [Work in progress] List of mobile web browsers inspired by nerdyslacker's list of desktop web browsers
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
