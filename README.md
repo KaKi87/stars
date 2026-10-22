@@ -468,6 +468,7 @@
 
 ## Rust 
 
+- [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
 - [WizenPainter/shuffle](https://github.com/WizenPainter/shuffle) - Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.
 - [cosmic-nightlight/cosmic-nightlight](https://github.com/cosmic-nightlight/cosmic-nightlight) - Night-light / gamma utility for the COSMIC desktop (Pop!_OS), via DRM/KMS + polkit helper
 - [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
@@ -550,6 +551,7 @@
 
 ## TypeScript 
 
+- [josdejong/svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) - A web-based tool to view, edit, format, repair, query, transform, and validate JSON
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
