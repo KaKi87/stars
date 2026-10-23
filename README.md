@@ -176,6 +176,7 @@
 
 ## HTML 
 
+- [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [Templarian/MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) - @mdi/font Dist for Material Design Icons.
