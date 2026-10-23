@@ -75,6 +75,7 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
@@ -719,6 +720,10 @@
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 
+## html-css-javascript 
+
+- [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
+
 ## html5 
 
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
@@ -851,6 +856,7 @@
 
 ## linux 
 
+- [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
 - [cosmic-nightlight/cosmic-nightlight](https://github.com/cosmic-nightlight/cosmic-nightlight) - Night-light / gamma utility for the COSMIC desktop (Pop!_OS), via DRM/KMS + polkit helper
 - [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [ekimiateam/libertix](https://github.com/ekimiateam/libertix) - Libertix installs linux in few clicks on your computer
@@ -904,6 +910,7 @@
 
 ## macos 
 
+- [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
 - [WizenPainter/shuffle](https://github.com/WizenPainter/shuffle) - Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
@@ -1680,6 +1687,7 @@
 
 ## windows 
 
+- [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
