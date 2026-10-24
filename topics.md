@@ -52,6 +52,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [emoji](#emoji)
@@ -531,6 +532,12 @@
 - [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) - ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
+## downloader 
+
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 
 ## education 
 
@@ -1075,6 +1082,7 @@
 
 ## others 
 
+- [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
 - [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
 - [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - macos下的类winfile管理功能
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
