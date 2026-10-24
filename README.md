@@ -537,6 +537,7 @@
 
 ## Swift 
 
+- [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
 - [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - macos下的类winfile管理功能
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
