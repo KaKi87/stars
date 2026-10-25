@@ -286,7 +286,6 @@
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
 - [spacebarchat/martian](https://github.com/spacebarchat/martian) - A NodeJS Fosscord library
 - [nicole-ashley/json-formatter](https://github.com/nicole-ashley/json-formatter) - Makes JSON/JSONP easy to read.
-- [pgsql-io/omnidb-ng](https://github.com/pgsql-io/omnidb-ng) - Web tool for database management
 - [kingjan1999/rapipdf-cli](https://github.com/kingjan1999/rapipdf-cli) - 
 - [vladgba/Back2source](https://github.com/vladgba/Back2source) - Userscript for redirect to source sites from sites with machine translation, etc.
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
