@@ -1261,7 +1261,6 @@
 - [Jieiku/theme-dark-arc-gitea](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast for Gitea, based on arc-green.
 - [nicole-ashley/json-formatter](https://github.com/nicole-ashley/json-formatter) - Makes JSON/JSONP easy to read.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-- [pgsql-io/omnidb-ng](https://github.com/pgsql-io/omnidb-ng) - Web tool for database management
 - [kingjan1999/rapipdf-cli](https://github.com/kingjan1999/rapipdf-cli) - 
 - [scienceetonnante/WordleSutom](https://github.com/scienceetonnante/WordleSutom) - Solve Wordle Sutom using maximum expected information
 - [dtrx-py/dtrx](https://github.com/dtrx-py/dtrx) - Do The Right Extraction
