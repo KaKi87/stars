@@ -917,6 +917,8 @@
 
 ## macos 
 
+- [manuelLandreau/proper-bar](https://github.com/manuelLandreau/proper-bar) - Free and open-source taskbar for macOS — an alternative to uBar. Dock or Windows-style taskbar mode, live previews, launcher, quick settings.
+- [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
 - [WizenPainter/shuffle](https://github.com/WizenPainter/shuffle) - Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
@@ -1082,6 +1084,7 @@
 
 ## others 
 
+- [daijro/paint.rs](https://github.com/daijro/paint.rs) - An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web.
 - [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
 - [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
 - [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - macos下的类winfile管理功能
@@ -1345,6 +1348,7 @@
 
 ## productivity 
 
+- [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [WizenPainter/shuffle](https://github.com/WizenPainter/shuffle) - Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [RARgames/4gaBoards](https://github.com/RARgames/4gaBoards) - Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's produ
@@ -1521,6 +1525,8 @@
 
 ## swift 
 
+- [manuelLandreau/proper-bar](https://github.com/manuelLandreau/proper-bar) - Free and open-source taskbar for macOS — an alternative to uBar. Dock or Windows-style taskbar mode, live previews, launcher, quick settings.
+- [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
@@ -1533,6 +1539,8 @@
 
 ## swiftui 
 
+- [manuelLandreau/proper-bar](https://github.com/manuelLandreau/proper-bar) - Free and open-source taskbar for macOS — an alternative to uBar. Dock or Windows-style taskbar mode, live previews, launcher, quick settings.
+- [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
