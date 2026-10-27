@@ -1087,7 +1087,7 @@
 - [daijro/paint.rs](https://github.com/daijro/paint.rs) - An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web.
 - [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
 - [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
-- [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - macos下的类winfile管理功能
+- [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - LeafFiles · 原生 macOS 文件管理器，支持多页签、分类浏览、安卓 MTP、压缩包预览与解压、空间清理及微信附件整理。
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [Julmik647/mobile-web-browsers](https://github.com/Julmik647/mobile-web-browsers) - [Work in progress] List of mobile web browsers inspired by nerdyslacker's list of desktop web browsers
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
