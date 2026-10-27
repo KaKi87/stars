@@ -540,7 +540,7 @@
 - [manuelLandreau/proper-bar](https://github.com/manuelLandreau/proper-bar) - Free and open-source taskbar for macOS — an alternative to uBar. Dock or Windows-style taskbar mode, live previews, launcher, quick settings.
 - [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
-- [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - macos下的类winfile管理功能
+- [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - LeafFiles · 原生 macOS 文件管理器，支持多页签、分类浏览、安卓 MTP、压缩包预览与解压、空间清理及微信附件整理。
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
