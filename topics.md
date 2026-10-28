@@ -1187,7 +1187,6 @@
 - [joao678/iup-js](https://github.com/joao678/iup-js) - 
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [RealCyGuy/trianglify-generator](https://github.com/RealCyGuy/trianglify-generator) - a free trianglify.js generator that requires no coding
-- [RailForLess/railforless](https://github.com/RailForLess/railforless) - Amtrak fare-scraping service
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
