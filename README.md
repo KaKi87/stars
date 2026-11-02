@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [bartlomieju/denidian](https://github.com/bartlomieju/denidian) - A tiny Obsidian-style note app built on the deno desktop subcommand: Markdown notes, [[wikilink]] crosslinking, and a force-directed graph view.
@@ -468,6 +469,8 @@
 
 ## Rust 
 
+- [LinkSy-mg/linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) - 
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [daijro/paint.rs](https://github.com/daijro/paint.rs) - An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web.
 - [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
 - [WizenPainter/shuffle](https://github.com/WizenPainter/shuffle) - Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.
