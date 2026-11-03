@@ -28,7 +28,6 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
-- [Pascal](#pascal)
 - [Python](#python)
 - [QML](#qml)
 - [Ruby](#ruby)
@@ -176,7 +175,6 @@
 
 ## HTML 
 
-- [gbdows/Kollage](https://github.com/gbdows/Kollage) - Kollage is a lightweight browser-based image editing application built with HTML, CSS and JavaScript. It is meant to be an alternative to Paint.NET for other operating systems like MacOS or Linux.
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [Templarian/MaterialDesign-Webfont](https://github.com/Templarian/MaterialDesign-Webfont) - @mdi/font Dist for Material Design Icons.
@@ -224,6 +222,7 @@
 
 ## JavaScript 
 
+- [daijro/openplayground](https://github.com/daijro/openplayground) - Use Adobe, Microsoft Office, Autodesk, FL Studio, Figma & other alternatives for free in your browser.
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -237,7 +236,6 @@
 - [ecbambrick/StayCurrent](https://github.com/ecbambrick/StayCurrent) - Firefox Add-on to force a link to open in the current tab
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [RyanMarcus/dirty-json](https://github.com/RyanMarcus/dirty-json) - A parser for invalid JSON
-- [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [emvaized/open-in-popup-window-extension](https://github.com/emvaized/open-in-popup-window-extension) - Tiny browser extension which allows to open any links and images in a popup window, with many features and settings
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
@@ -316,6 +314,7 @@
 
 ## Kotlin 
 
+- [Joaopcamposs/raptor-client](https://github.com/Joaopcamposs/raptor-client) - Plugin HTTP client para IDE's da Jetbrains
 - [FedeFluork/multistore](https://github.com/FedeFluork/multistore) - A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the stor
 - [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
 - [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
@@ -417,14 +416,10 @@
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 
-## Pascal 
-
-- [bgrabitmap/lazpaint](https://github.com/bgrabitmap/lazpaint) - 🎨 Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal)
-
 ## Python 
 
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
-- [ekimiateam/libertix](https://github.com/ekimiateam/libertix) - Libertix installs linux in few clicks on your computer
+- [ekimiateam/libertix](https://github.com/ekimiateam/libertix) - Libertix installs linux in few clicks on your Windows computer
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
 - [davidboulay/Clippy](https://github.com/davidboulay/Clippy) - A clipboard-history panel for Linux and macOS. Press a global shortcut and a strip of tiles slides up from the bottom of the screen showing everything you've recently copied — text, images, and files.
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
@@ -469,6 +464,10 @@
 
 ## Rust 
 
+- [sbaruwal/orbvane](https://github.com/sbaruwal/orbvane) - A native code editor for Mac, written in Rust. Language servers, debugging, git, terminals, tests and extensions, drawn by its own GPU toolkit. No web view, no telemetry.
+- [ilhamnadhif/ternarywire](https://github.com/ilhamnadhif/ternarywire) - Lightweight API client written entirely in Rust — a native Postman alternative for HTTP, GraphQL, gRPC, WebSocket, Socket.IO, MQTT, MCP and AI requests, with Postman-compatible collections and scripts
+- [crizant/probe](https://github.com/crizant/probe) - A fast, native, local-first API client and Postman alternative for macOS, Windows and Linux, with a CLI for CI and AI agents. Built with Rust and GPUI, using OpenCollection YAML.
+- [gregor-tokarev/request-eagle](https://github.com/gregor-tokarev/request-eagle) - Native, open-source API client for macOS, Windows and Linux: a Postman alternative written in Rust that keeps requests as Git-friendly TOML files on your disk, with scripts, Vim mode, an agent panel f
 - [LinkSy-mg/linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) - 
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [daijro/paint.rs](https://github.com/daijro/paint.rs) - An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web.
@@ -519,7 +518,6 @@
 - [DanGLVK/NoStorageRestrict](https://github.com/DanGLVK/NoStorageRestrict) - Remove the restriction when selecting folders through SAF
 - [AdguardTeam/adguardcert](https://github.com/AdguardTeam/adguardcert) - Magisk module that allows using AdGuard's HTTPS filtering for all apps
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
-- [catppuccin/fleet](https://github.com/catppuccin/fleet) - 🌊 Soothing pastel theme for JetBrains Fleet
 - [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker) - 🐳 Aria2 downloader and AriaNg webui Docker image based on Alpine Linux
 - [casperklein/docker-tmux-builder](https://github.com/casperklein/docker-tmux-builder) - Builds a tmux debian package
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -558,6 +556,7 @@
 
 ## TypeScript 
 
+- [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+
 - [josdejong/svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) - A web-based tool to view, edit, format, repair, query, transform, and validate JSON
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
@@ -571,7 +570,7 @@
 - [kunkunsh/kkrpc](https://github.com/kunkunsh/kkrpc) - A TypeScript RPC protocol for multiple environments (iframe, web worker, stdio, http, WebSocket)
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [desktop-plus/desktop-plus](https://github.com/desktop-plus/desktop-plus) - A GitHub Desktop fork with advanced functionality and improvements.
+- [desktop-plus/desktop-plus](https://github.com/desktop-plus/desktop-plus) - A GitHub Desktop fork with advanced functionality for power-users.
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers, response headers, response body, redirect requests, cancel requests
 - [BookCatKid/TablissNG](https://github.com/BookCatKid/TablissNG) - My version of Tabliss that I will be maintaining in the future. A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
