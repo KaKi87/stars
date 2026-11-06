@@ -468,6 +468,7 @@
 
 ## Rust 
 
+- [jlevy/fdu](https://github.com/jlevy/fdu) - Fastest du replacement and file tree analysis for 100+GB, million-file worktrees
 - [sbaruwal/orbvane](https://github.com/sbaruwal/orbvane) - A native code editor for Mac, written in Rust. Language servers, debugging, git, terminals, tests and extensions, drawn by its own GPU toolkit. No web view, no telemetry.
 - [ilhamnadhif/ternarywire](https://github.com/ilhamnadhif/ternarywire) - Lightweight API client written entirely in Rust — a native Postman alternative for HTTP, GraphQL, gRPC, WebSocket, Socket.IO, MQTT, MCP and AI requests, with Postman-compatible collections and scripts
 - [crizant/probe](https://github.com/crizant/probe) - A fast, native, local-first API client and Postman alternative for macOS, Windows and Linux, with a CLI for CI and AI agents. Built with Rust and GPUI, using OpenCollection YAML.
