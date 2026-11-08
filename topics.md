@@ -100,6 +100,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
@@ -630,6 +631,7 @@
 
 ## git 
 
+- [ThreeFish-AI/hyper-git](https://github.com/ThreeFish-AI/hyper-git) - HyperGit brings IntelliJ IDEA's powerful Git & Commit modules to VS Code, enhanced with AI-powered autonomous agents for intelligent repository management. Experience Git in a higher dimension.
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+
 - [florian42/get-repo](https://github.com/florian42/get-repo) - A small cli utility for cloning git repositories in an orderly manner.
 - [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - Mirror of &lt;https://codeberg.org/forgejo/forgejo&gt; | A community-driven version of Gitea.
@@ -986,6 +988,10 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 
+## mcp-server 
+
+- [jegly/Box](https://github.com/jegly/Box) - The most advanced, fully offline client-side AI suite on Android today.
+
 ## microsoft 
 
 - [fossteams/teams-token](https://github.com/fossteams/teams-token) - A super simple Electron app that will save your Microsoft Teams tokens
@@ -1012,6 +1018,7 @@
 
 ## mysql 
 
+- [alexbridge/abridge-vsx-sqlxs](https://github.com/alexbridge/abridge-vsx-sqlxs) - Database tools for VS Code — IntelliJ/DataGrip-style data grid, SQL console with CodeLens, inline editing, transpose view. MySQL, PostgreSQL, TimescaleDB
 - [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -1096,6 +1103,8 @@
 
 ## others 
 
+- [raffaelemancuso/blurbox](https://github.com/raffaelemancuso/blurbox) - GUI to cover areas of a video (black box, blur, pixelate) with ffmpeg
+- [witt-bit/jetbrains-version-control](https://github.com/witt-bit/jetbrains-version-control) - JetBrains style version control for VS Code
 - [jlevy/fdu](https://github.com/jlevy/fdu) - Fastest du replacement and file tree analysis for 100+GB, million-file worktrees
 - [PGshen/vs-idea-gittool](https://github.com/PGshen/vs-idea-gittool) - A VS Code extension that re-creates Rebased, the standalone git client built on the IntelliJ platform.
 - [daijro/openplayground](https://github.com/daijro/openplayground) - Use Adobe, Microsoft Office, Autodesk, FL Studio, Figma & other alternatives for free in your browser.
@@ -1340,6 +1349,7 @@
 
 ## postgresql 
 
+- [alexbridge/abridge-vsx-sqlxs](https://github.com/alexbridge/abridge-vsx-sqlxs) - Database tools for VS Code — IntelliJ/DataGrip-style data grid, SQL console with CodeLens, inline editing, transpose view. MySQL, PostgreSQL, TimescaleDB
 - [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
