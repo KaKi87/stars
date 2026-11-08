@@ -25,6 +25,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
@@ -363,6 +364,10 @@
 
 - [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
 
+## Makefile 
+
+- [alexbridge/abridge-vsx-sqlxs](https://github.com/alexbridge/abridge-vsx-sqlxs) - Database tools for VS Code — IntelliJ/DataGrip-style data grid, SQL console with CodeLens, inline editing, transpose view. MySQL, PostgreSQL, TimescaleDB
+
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -424,6 +429,7 @@
 
 ## Python 
 
+- [raffaelemancuso/blurbox](https://github.com/raffaelemancuso/blurbox) - GUI to cover areas of a video (black box, blur, pixelate) with ffmpeg
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [ekimiateam/libertix](https://github.com/ekimiateam/libertix) - Libertix installs linux in few clicks on your Windows computer
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
@@ -563,6 +569,8 @@
 
 ## TypeScript 
 
+- [ThreeFish-AI/hyper-git](https://github.com/ThreeFish-AI/hyper-git) - HyperGit brings IntelliJ IDEA's powerful Git & Commit modules to VS Code, enhanced with AI-powered autonomous agents for intelligent repository management. Experience Git in a higher dimension.
+- [witt-bit/jetbrains-version-control](https://github.com/witt-bit/jetbrains-version-control) - JetBrains style version control for VS Code
 - [PGshen/vs-idea-gittool](https://github.com/PGshen/vs-idea-gittool) - A VS Code extension that re-creates Rebased, the standalone git client built on the IntelliJ platform.
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+
 - [josdejong/svelte-jsoneditor](https://github.com/josdejong/svelte-jsoneditor) - A web-based tool to view, edit, format, repair, query, transform, and validate JSON
