@@ -88,6 +88,7 @@
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [laravel](#laravel)
 - [library](#library)
@@ -367,6 +368,7 @@
 
 ## cli 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [ilhamnadhif/ternarywire](https://github.com/ilhamnadhif/ternarywire) - Lightweight API client written entirely in Rust — a native Postman alternative for HTTP, GraphQL, gRPC, WebSocket, Socket.IO, MQTT, MCP and AI requests, with Postman-compatible collections and scripts
 - [crizant/probe](https://github.com/crizant/probe) - A fast, native, local-first API client and Postman alternative for macOS, Windows and Linux, with a CLI for CI and AI agents. Built with Rust and GPUI, using OpenCollection YAML.
 - [gregor-tokarev/request-eagle](https://github.com/gregor-tokarev/request-eagle) - Native, open-source API client for macOS, Windows and Linux: a Postman alternative written in Rust that keeps requests as Git-friendly TOML files on your disk, with scripts, Vim mode, an agent panel f
@@ -528,6 +530,7 @@
 
 ## docker 
 
+- [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping) - DCTS is an ambitious project with the goal to offer absolute independence through software with a no-bullshit mindset completely for free and with a heavy focus on self-hosting, decentralization and e
@@ -651,7 +654,7 @@
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [AlexandraKreidich/SwitchGithubAccounts](https://github.com/AlexandraKreidich/SwitchGithubAccounts) - Chrome extension
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from code hosting services but with the correct content types
 
 ## github-api 
 
@@ -669,6 +672,7 @@
 
 ## golang 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
@@ -700,6 +704,7 @@
 
 ## hacktoberfest 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
@@ -843,6 +848,10 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [nyavro/i18nPlugin](https://github.com/nyavro/i18nPlugin) - Intellij idea i18next support plugin
 
+## knowledge-graph 
+
+- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
+
 ## kotlin 
 
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
@@ -959,6 +968,7 @@
 
 ## markdown 
 
+- [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [glacierphonk/naming](https://github.com/glacierphonk/naming) - Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -1031,6 +1041,7 @@
 
 ## nextjs 
 
+- [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
@@ -1080,6 +1091,7 @@
 
 ## open-source 
 
+- [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [glacierphonk/naming](https://github.com/glacierphonk/naming) - Claude Code skill for naming products, SaaS, and brands. Metaphor-driven naming that avoids AI slop.
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
 - [mpvRex/REX-Player](https://github.com/mpvRex/REX-Player) - A modern Android video player powered by libmpv, built with Jetpack Compose.
@@ -1349,6 +1361,7 @@
 
 ## postgresql 
 
+- [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [alexbridge/abridge-vsx-sqlxs](https://github.com/alexbridge/abridge-vsx-sqlxs) - Database tools for VS Code — IntelliJ/DataGrip-style data grid, SQL console with CodeLens, inline editing, transpose view. MySQL, PostgreSQL, TimescaleDB
 - [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
