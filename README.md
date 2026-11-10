@@ -155,7 +155,7 @@
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [pgplex/pgtui](https://github.com/pgplex/pgtui) - A simple terminal UI for PostgreSQL, written in Go with Bubble Tea
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [qundao/mirror-forgejo](https://github.com/qundao/mirror-forgejo) - Mirror of &lt;https://codeberg.org/forgejo/forgejo&gt; | A community-driven version of Gitea.
+- [mirrormode/mirror-forgejo](https://github.com/mirrormode/mirror-forgejo) - Mirror of &lt;https://codeberg.org/forgejo/forgejo&gt; | A community-driven version of Gitea.
 - [steffenbusch/caddy-bot-barrier](https://github.com/steffenbusch/caddy-bot-barrier) - A Caddy plugin that helps reduce automated bot traffic by requiring clients to solve a computational challenge before accessing HTTP resources.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -487,7 +487,7 @@
 - [daijro/paint.rs](https://github.com/daijro/paint.rs) - An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web.
 - [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
 - [WizenPainter/shuffle](https://github.com/WizenPainter/shuffle) - Fast, open-source, GPU-rendered file manager for macOS. A Finder alternative built in Rust with GPUI.
-- [cosmic-nightlight/cosmic-nightlight](https://github.com/cosmic-nightlight/cosmic-nightlight) - Night-light / gamma utility for the COSMIC desktop (Pop!_OS), via DRM/KMS + polkit helper
+- [cosmic-nightlight/cosmic-nightlight](https://github.com/cosmic-nightlight/cosmic-nightlight) - Night-light / gamma utility for the COSMIC™ desktop (Pop!_OS), via DRM/KMS + polkit helper
 - [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [riii111/sabiql](https://github.com/riii111/sabiql) - Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
@@ -555,7 +555,7 @@
 - [manuelLandreau/proper-bar](https://github.com/manuelLandreau/proper-bar) - Free and open-source taskbar for macOS — an alternative to uBar. Dock or Windows-style taskbar mode, live previews, launcher, quick settings.
 - [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
-- [fakerUZI/macos_winfile](https://github.com/fakerUZI/macos_winfile) - LeafFiles · 原生 macOS 文件管理器，支持多页签、分类浏览、安卓 MTP、压缩包预览与解压、空间清理及微信附件整理。
+- [LeafFiles/LeafFiles](https://github.com/LeafFiles/LeafFiles) - LeafFiles · 原生 macOS 文件管理器，支持多页签、分类浏览、安卓 MTP、压缩包预览与解压、空间清理及微信附件整理。
 - [mdsakalu/herald](https://github.com/mdsakalu/herald) - Modern macOS notification CLI built on UNUserNotificationCenter
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
