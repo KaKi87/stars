@@ -570,6 +570,7 @@
 
 ## TypeScript 
 
+- [aria-amini/imdbgraph](https://github.com/aria-amini/imdbgraph) - 
 - [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [ThreeFish-AI/hyper-git](https://github.com/ThreeFish-AI/hyper-git) - HyperGit brings IntelliJ IDEA's powerful Git & Commit modules to VS Code, enhanced with AI-powered autonomous agents for intelligent repository management. Experience Git in a higher dimension.
 - [witt-bit/jetbrains-version-control](https://github.com/witt-bit/jetbrains-version-control) - JetBrains style version control for VS Code
