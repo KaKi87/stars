@@ -1116,6 +1116,7 @@
 
 ## others 
 
+- [Gathor59/Extension-Alerte-GenAI](https://github.com/Gathor59/Extension-Alerte-GenAI) - 
 - [aria-amini/imdbgraph](https://github.com/aria-amini/imdbgraph) - 
 - [raffaelemancuso/blurbox](https://github.com/raffaelemancuso/blurbox) - GUI to cover areas of a video (black box, blur, pixelate) with ffmpeg
 - [witt-bit/jetbrains-version-control](https://github.com/witt-bit/jetbrains-version-control) - JetBrains style version control for VS Code
