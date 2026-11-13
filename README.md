@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [Gathor59/Extension-Alerte-GenAI](https://github.com/Gathor59/Extension-Alerte-GenAI) - 
 - [daijro/openplayground](https://github.com/daijro/openplayground) - Use Adobe, Microsoft Office, Autodesk, FL Studio, Figma & other alternatives for free in your browser.
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
