@@ -478,6 +478,7 @@
 
 ## Rust 
 
+- [glyx-dev/glyx](https://github.com/glyx-dev/glyx) - Native desktop apps with React and GPU rendering.
 - [jlevy/fdu](https://github.com/jlevy/fdu) - Fastest du replacement and file tree analysis for 100+GB, million-file worktrees
 - [sbaruwal/orbvane](https://github.com/sbaruwal/orbvane) - A native code editor for Mac, written in Rust. Language servers, debugging, git, terminals, tests and extensions, drawn by its own GPU toolkit. No web view, no telemetry.
 - [ilhamnadhif/ternarywire](https://github.com/ilhamnadhif/ternarywire) - Lightweight API client written entirely in Rust — a native Postman alternative for HTTP, GraphQL, gRPC, WebSocket, Socket.IO, MQTT, MCP and AI requests, with Postman-compatible collections and scripts
@@ -571,6 +572,7 @@
 
 ## TypeScript 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [aria-amini/imdbgraph](https://github.com/aria-amini/imdbgraph) - 
 - [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
 - [ThreeFish-AI/hyper-git](https://github.com/ThreeFish-AI/hyper-git) - HyperGit brings IntelliJ IDEA's powerful Git & Commit modules to VS Code, enhanced with AI-powered autonomous agents for intelligent repository management. Experience Git in a higher dimension.
