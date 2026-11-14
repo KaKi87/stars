@@ -201,6 +201,7 @@
 
 ## android 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [caydey/ffshare](https://github.com/caydey/ffshare) - An android app to compress image, video and audio files through ffmpeg before sharing them
 - [ToThangGTVT/open-adblock](https://github.com/ToThangGTVT/open-adblock) - Block ads and trackers on Android with a local VPN. No root required. Supports DNS filtering, per-app firewall rules, and optional HTTPS filtering.
 - [FedeFluork/multistore](https://github.com/FedeFluork/multistore) - A native Android app that aggregates third-party app stores into one catalogue. Search across all of them at once, compare what each publishes for the same app, download and install APKs from the stor
@@ -698,6 +699,7 @@
 
 ## gui 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [mohad12211/twitch-downloader-gui](https://github.com/mohad12211/twitch-downloader-gui) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay (GUI for linux)
@@ -885,6 +887,7 @@
 
 ## linux 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [gregor-tokarev/request-eagle](https://github.com/gregor-tokarev/request-eagle) - Native, open-source API client for macOS, Windows and Linux: a Postman alternative written in Rust that keeps requests as Git-friendly TOML files on your disk, with scripts, Vim mode, an agent panel f
 - [cosmic-nightlight/cosmic-nightlight](https://github.com/cosmic-nightlight/cosmic-nightlight) - Night-light / gamma utility for the COSMIC™ desktop (Pop!_OS), via DRM/KMS + polkit helper
 - [TopiCsarno/yapcap](https://github.com/TopiCsarno/yapcap) - Native COSMIC panel applet showing local usage limits for Codex, Claude Code, and Cursor.
@@ -1054,6 +1057,7 @@
 
 ## node 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
@@ -1061,6 +1065,7 @@
 
 ## nodejs 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
@@ -1116,6 +1121,7 @@
 
 ## others 
 
+- [glyx-dev/glyx](https://github.com/glyx-dev/glyx) - Native desktop apps with React and GPU rendering.
 - [Gathor59/Extension-Alerte-GenAI](https://github.com/Gathor59/Extension-Alerte-GenAI) - 
 - [aria-amini/imdbgraph](https://github.com/aria-amini/imdbgraph) - 
 - [raffaelemancuso/blurbox](https://github.com/raffaelemancuso/blurbox) - GUI to cover areas of a video (black box, blur, pixelate) with ffmpeg
@@ -1477,6 +1483,7 @@
 
 ## rust 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [ToThangGTVT/open-adblock](https://github.com/ToThangGTVT/open-adblock) - Block ads and trackers on Android with a local VPN. No root required. Supports DNS filtering, per-app firewall rules, and optional HTTPS filtering.
 - [sbaruwal/orbvane](https://github.com/sbaruwal/orbvane) - A native code editor for Mac, written in Rust. Language servers, debugging, git, terminals, tests and extensions, drawn by its own GPU toolkit. No web view, no telemetry.
 - [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) - The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+
@@ -1647,6 +1654,7 @@
 
 ## typescript 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [nouploads/nouploads](https://github.com/nouploads/nouploads) - Free, open-source file tools that run 100% in your browser. No uploads. No servers. No BS.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -1764,6 +1772,7 @@
 
 ## windows 
 
+- [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [gregor-tokarev/request-eagle](https://github.com/gregor-tokarev/request-eagle) - Native, open-source API client for macOS, Windows and Linux: a Postman alternative written in Rust that keeps requests as Git-friendly TOML files on your disk, with scripts, Vim mode, an agent panel f
 - [Vladimir-Urik/OxMgr](https://github.com/Vladimir-Urik/OxMgr) - Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.
 - [rhash/RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums
