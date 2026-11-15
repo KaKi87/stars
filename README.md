@@ -572,6 +572,7 @@
 
 ## TypeScript 
 
+- [dionatansimioni/kubik](https://github.com/dionatansimioni/kubik) - Pop!_Shell-style auto-tiling for KDE Plasma 6 (KWin script + tray icon)
 - [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [aria-amini/imdbgraph](https://github.com/aria-amini/imdbgraph) - 
 - [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) - Open-source alternative to Notion and AppFlowy – documents, databases, whiteboards and a daily journal.
@@ -609,7 +610,7 @@
 - [achillease/loxer](https://github.com/achillease/loxer) - A middleware logger that helps you make informational beauitiful logs exactly when you need them and in a way that it would be unnessecary to delete them.
 - [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant markdown builder with minimal bundle size.
+- [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant Markdown builder for TypeScript: zero dependencies, tree-shakable, under 1 kB
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
