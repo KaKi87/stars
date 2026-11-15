@@ -704,6 +704,7 @@
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [mohad12211/twitch-downloader-gui](https://github.com/mohad12211/twitch-downloader-gui) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay (GUI for linux)
 - [dvershinin/green-recorder](https://github.com/dvershinin/green-recorder) - A simple screen recorder for Linux desktop. Supports Wayland & Xorg
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## hacktoberfest 
 
@@ -1017,6 +1018,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [namanshergill/diohub](https://github.com/namanshergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## monitoring 
 
@@ -1121,6 +1123,7 @@
 
 ## others 
 
+- [dionatansimioni/kubik](https://github.com/dionatansimioni/kubik) - Pop!_Shell-style auto-tiling for KDE Plasma 6 (KWin script + tray icon)
 - [glyx-dev/glyx](https://github.com/glyx-dev/glyx) - Native desktop apps with React and GPU rendering.
 - [Gathor59/Extension-Alerte-GenAI](https://github.com/Gathor59/Extension-Alerte-GenAI) - 
 - [aria-amini/imdbgraph](https://github.com/aria-amini/imdbgraph) - 
@@ -1191,7 +1194,7 @@
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Error Tracking Made Simple
 - [kocielnik/Ghost-Android](https://github.com/kocielnik/Ghost-Android) - 🤖 Ghost for Android
 - [Equicord/Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support
-- [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant markdown builder with minimal bundle size.
+- [mdjastrzebski/ts-markdown-builder](https://github.com/mdjastrzebski/ts-markdown-builder) - Elegant Markdown builder for TypeScript: zero dependencies, tree-shakable, under 1 kB
 - [thngkaiyuan/js-toggle](https://github.com/thngkaiyuan/js-toggle) - A Chrome extension to help you toggle the Javascript setting on any page with ease.
 - [keanemind/jjk](https://github.com/keanemind/jjk) - Jujutsu (jj) VCS support for VS Code
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
