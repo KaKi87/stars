@@ -1123,6 +1123,7 @@
 
 ## others 
 
+- [hari161008/Ever-Dialer](https://github.com/hari161008/Ever-Dialer) - Ever Dialer And SMS is the best replacement of Google dialer which can RECORD CALLS without announcements, without root and has Material You design with dynamic colours, aesthetic, open source, custom
 - [dionatansimioni/kubik](https://github.com/dionatansimioni/kubik) - Pop!_Shell-style auto-tiling for KDE Plasma 6 (KWin script + tray icon)
 - [glyx-dev/glyx](https://github.com/glyx-dev/glyx) - Native desktop apps with React and GPU rendering.
 - [Gathor59/Extension-Alerte-GenAI](https://github.com/Gathor59/Extension-Alerte-GenAI) - 
@@ -1145,7 +1146,7 @@
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [pkgforge-dev/kdeconnect-AppImage](https://github.com/pkgforge-dev/kdeconnect-AppImage) - Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama]
-- [walt-app/walt-passes-android](https://github.com/walt-app/walt-passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
+- [tutu-wallet/passes-android](https://github.com/tutu-wallet/passes-android) - Open-source pass-handling kernel for the Walt wallet app. PKPASS parsing, signature verification, encrypted storage, and security-critical UI flows. Transparency-for-trust.
 - [llsc12/Paicord](https://github.com/llsc12/Paicord) - A native Discord client.
 - [accelaire/CLAIR](https://github.com/accelaire/CLAIR) - CLAIR agrège, croise et présente de manière accessible les données publiques sur l'activité des parlementaires (députés et sénateurs), le lobbying et les votes au Parlement.
 - [souravas/reddit-profile-unhider](https://github.com/souravas/reddit-profile-unhider) - 
