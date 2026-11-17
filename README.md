@@ -225,7 +225,7 @@
 ## JavaScript 
 
 - [Gathor59/Extension-Alerte-GenAI](https://github.com/Gathor59/Extension-Alerte-GenAI) - 
-- [daijro/openplayground](https://github.com/daijro/openplayground) - Use Adobe, Microsoft Office, Autodesk, FL Studio, Figma & other alternatives for free in your browser.
+- [daijro/openplayground](https://github.com/daijro/openplayground) - Multiplayer Adobe, Microsoft Office, Autodesk, FL Studio, & much more for free in your browser. Updated every 15 minutes.
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -555,6 +555,7 @@
 
 ## Swift 
 
+- [PRMotorWorks/Fenestra](https://github.com/PRMotorWorks/Fenestra) - The Windows 11 desktop on your Mac: taskbar, Start menu, Quick Settings, Snap Layouts, Alt+Tab and clipboard history. Native, free, reversible.
 - [manuelLandreau/proper-bar](https://github.com/manuelLandreau/proper-bar) - Free and open-source taskbar for macOS — an alternative to uBar. Dock or Windows-style taskbar mode, live previews, launcher, quick settings.
 - [saenai255/openbar](https://github.com/saenai255/openbar) - A Windows-style taskbar for macOS. Window buttons, live previews, multi-monitor, Dock-less mode.
 - [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
