@@ -402,7 +402,7 @@
 - [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) - ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
-- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.9.5/1.9.2-dev), Powered by TC
+- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.9.5/1.10.5-dev), Powered by TC
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [Xposed-Modules-Repo/ru.mike.updatelocker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker) - Update Locker: stop update your apps
