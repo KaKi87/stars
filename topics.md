@@ -644,7 +644,7 @@
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [francescmaestre/GitQlient](https://github.com/francescmaestre/GitQlient) - GitQlient: Multi-platform Git client written with Qt.
 - [relagit/relagit](https://github.com/relagit/relagit) - The elegant solution to graphical version control.
-- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+- [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [Murmele/Gittyup](https://github.com/Murmele/Gittyup) - Understand your Git history!
 - [ChrisCarini/git-push-reminder-jetbrains-plugin](https://github.com/ChrisCarini/git-push-reminder-jetbrains-plugin) - A plugin for JetBrains IDEs which detects and provides a friendly reminder when a project is closed and there are commits that have not yet been pushed.
 
@@ -701,7 +701,7 @@
 
 - [omarcosr/tarve](https://github.com/omarcosr/tarve) - Cross-platform native GUI framework for TypeScript/TSX. Windows, Linux & Android. Bun, Node.js & QuickJS.
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
-- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+- [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [mohad12211/twitch-downloader-gui](https://github.com/mohad12211/twitch-downloader-gui) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay (GUI for linux)
 - [dvershinin/green-recorder](https://github.com/dvershinin/green-recorder) - A simple screen recorder for Linux desktop. Supports Wayland & Xorg
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -1133,12 +1133,10 @@
 - [witt-bit/jetbrains-version-control](https://github.com/witt-bit/jetbrains-version-control) - JetBrains style version control for VS Code
 - [jlevy/fdu](https://github.com/jlevy/fdu) - Fastest du replacement and file tree analysis for 100+GB, million-file worktrees
 - [PGshen/vs-idea-gittool](https://github.com/PGshen/vs-idea-gittool) - A VS Code extension that re-creates Rebased, the standalone git client built on the IntelliJ platform.
-- [daijro/openplayground](https://github.com/daijro/openplayground) - Multiplayer Adobe, Microsoft Office, Autodesk, FL Studio, & much more for free in your browser. Updated every 15 minutes.
 - [Joaopcamposs/raptor-client](https://github.com/Joaopcamposs/raptor-client) - Plugin HTTP client para IDE's da Jetbrains
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [LinkSy-mg/linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) - 
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
-- [daijro/paint.rs](https://github.com/daijro/paint.rs) - An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web.
 - [justinbaduaa/alt-tab-macos-free](https://github.com/justinbaduaa/alt-tab-macos-free) - 
 - [EricKrouss/OpenPDN](https://github.com/EricKrouss/OpenPDN) - A native Rust image editor pursuing **Paint.NET 5.1.12 feature and UI parity** on Linux, Windows, and macOS. Still in beta but works great; this is **not yet a feature-complete replacement** but close
 - [LeafFiles/LeafFiles](https://github.com/LeafFiles/LeafFiles) - LeafFiles · 原生 macOS 文件管理器，支持多页签、分类浏览、安卓 MTP、压缩包预览与解压、空间清理及微信附件整理。
@@ -1284,7 +1282,7 @@
 - [UziTech/emel](https://github.com/UziTech/emel) - Create DOM elements with Emmet
 - [tom-james-watson/old-reddit-redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Ensure Reddit always loads the old design
 - [mdaphinis/adsbypasser](https://github.com/mdaphinis/adsbypasser) - Bypass ad counter if possible.
-- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.9.5/1.10.5-dev), Powered by TC
+- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.10.6/1.10.5-dev), Powered by TC
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
 - [haverstack/axios-fetch-adapter](https://github.com/haverstack/axios-fetch-adapter) - An Axios adapter that uses native `fetch`. Useful for Cloudflare Workers and ServiceWorker environments.
 - [promitheas17j/lemmy-ui-themes](https://github.com/promitheas17j/lemmy-ui-themes) - custom lemmy themes for lemmy-ui
