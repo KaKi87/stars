@@ -397,12 +397,13 @@
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [claudemods/BasiliskAppImage](https://github.com/claudemods/BasiliskAppImage) - It is What It Is
 - [wcxo/GitCracken](https://github.com/wcxo/GitCracken) - GitCracken
+- [cosmic-ext-orbit/cosmic-project-collection](https://github.com/cosmic-ext-orbit/cosmic-project-collection) - A collection of COSMIC projects developed by the community.
 - [SinaMombeiny/S-DarkTheme.zed](https://github.com/SinaMombeiny/S-DarkTheme.zed) - Dark theme extension for the Zed code editor
 - [Mte90/yad-static-build](https://github.com/Mte90/yad-static-build) - 
 - [im-luka/markdown-cheatsheet](https://github.com/im-luka/markdown-cheatsheet) - ⬇️ The only Markdown Cheatsheet you will ever need to raise your docs to the next level. PDF included.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
-- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.11.7/1.11.3-dev), Powered by TC
+- [Delppine1024/TGreen](https://github.com/Delppine1024/TGreen) - Some files work well on T v1.1 (The latest support v1.13.7/1.13.1-dev), Powered by TC
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [abint7/free-domains](https://github.com/abint7/free-domains) - Free subdomains for personal sites, open-source projects, and more.
 - [Xposed-Modules-Repo/ru.mike.updatelocker](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker) - Update Locker: stop update your apps
@@ -506,8 +507,8 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [cofob/fastside](https://github.com/cofob/fastside) - A smart redirecting gateway for various frontend services.
 - [gulbanana/gg](https://github.com/gulbanana/gg) - GG - Gui for JJ
-- [cosmic-utils/cosmic-ext-applet-minimon](https://github.com/cosmic-utils/cosmic-ext-applet-minimon) - A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
-- [cosmic-utils/observatory](https://github.com/cosmic-utils/observatory) - An in-development system monitor application for the COSMIC desktop environment
+- [cosmic-ext-orbit/cosmic-ext-applet-minimon](https://github.com/cosmic-ext-orbit/cosmic-ext-applet-minimon) - A COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock..
+- [cosmic-ext-orbit/observatory](https://github.com/cosmic-ext-orbit/observatory) - An in-development system monitor application for the COSMIC desktop environment
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep) - Search through all your files
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -515,7 +516,6 @@
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [cosmic-utils/cosmic-project-collection](https://github.com/cosmic-utils/cosmic-project-collection) - A collection of COSMIC projects developed by the community.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [dgiagio/warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
